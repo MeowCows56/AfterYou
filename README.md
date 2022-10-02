@@ -1,16 +1,16 @@
 # AfterYou
 A COMP31/MDDN321 Project
 
-Key to who's who:
-MeowCows56 = Rebecca
-crystalqdm = Crystal
-ORMMI = Xiang
-Yuxin-zzz = Yuxin
-fniefne = Ning
-itsemily00 = Emily
-
+Key to who's who:<br />
+MeowCows56 = Rebecca <br />
+crystalqdm = Crystal <br />
+ORMMI = Xiang <br />
+Yuxin-zzz = Yuxin <br />
+fniefne = Ning <br />
+itsemily00 = Emily <br />
+<br />
 Description:
-
+<br />
 Controls:
-
+<br />
 Core Gameplay Elements:
