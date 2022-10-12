@@ -2732,3 +2732,1538 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.12-08.24.47:811][365]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Fixed_Ghost94BA813D431EC40859CB53873B1CDCEF.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Ghost/Fixed_Ghost.uasset'
 [2022.10.12-08.24.47:828][365]AssetCheck: New page: Asset Save: Fixed_Ghost
 [2022.10.12-08.24.47:828][365]LogContentValidation: Display: Validating SkeletalMesh /Game/Models/Ghost/Fixed_Ghost.Fixed_Ghost
+[2022.10.12-08.26.01:033][303]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\BexRo\Downloads\Virtual_Piano_-_Online_Piano_Keyboard___OnlinePianist_-_Google_Chrome_2022-09-18_01-46-29.mp3)
+[2022.10.12-08.26.11:745][846]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.12-08.26.11:745][846]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.12-08.26.12:025][860]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.12-08.26.12:025][860]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.12-08.26.17:812][187]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.12-08.26.17:812][187]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.12-08.26.21:030][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.12-08.26.21:912][374]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.12-08.26.21:971][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.12-08.26.22:018][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.10.12-08.26.22:064][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.12-08.29.56:655][492]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\BexRo\Downloads\Virtual_Piano_-_Online_Piano_Keyboard___OnlinePianist_-_Google_Chrome_2022-09-18_01-46-29.wav)
+[2022.10.12-08.29.56:666][492]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Virtual_Piano_-_Online_Piano_Keyboard___OnlinePianist_-_Google_Chrome_2022-09-18_01-46-29...
+[2022.10.12-08.29.56:666][492]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/raw_audio/Virtual_Piano_-_Online_Piano_Keyboard___OnlinePianist_-_Google_Chrome_2022-09-18_01-46-29.Virtual_Piano_-_Online_Piano_Keyboard___OnlinePianist_-_Google_Chrome_2022-09-18_01-46-29 will be modified from 40 to 40.
+[2022.10.12-08.29.56:728][492]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1926144 while cooking SoundWave /Game/Audio/raw_audio/Virtual_Piano_-_Online_Piano_Keyboard___OnlinePianist_-_Google_Chrome_2022-09-18_01-46-29.Virtual_Piano_-_Online_Piano_Keyboard___OnlinePianist_-_Google_Chrome_2022-09-18_01-46-29.
+[2022.10.12-08.29.56:728][492]LogAudio: Display: Chunk size for SoundWave /Game/Audio/raw_audio/Virtual_Piano_-_Online_Piano_Keyboard___OnlinePianist_-_Google_Chrome_2022-09-18_01-46-29.Virtual_Piano_-_Online_Piano_Keyboard___OnlinePianist_-_Google_Chrome_2022-09-18_01-46-29: 262144
+[2022.10.12-08.29.56:762][492]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\BexRo\Downloads\Fairytale Waltz.wav)
+[2022.10.12-08.29.56:803][492]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Fairytale_Waltz...
+[2022.10.12-08.29.56:806][492]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/raw_audio/Fairytale_Waltz.Fairytale_Waltz will be modified from 40 to 40.
+[2022.10.12-08.29.57:444][492]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 17510400 while cooking SoundWave /Game/Audio/raw_audio/Fairytale_Waltz.Fairytale_Waltz.
+[2022.10.12-08.29.57:447][492]LogAudio: Display: Chunk size for SoundWave /Game/Audio/raw_audio/Fairytale_Waltz.Fairytale_Waltz: 262144
+[2022.10.12-08.29.59:775][623]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.12-08.29.59:776][623]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.12-08.30.05:201][946]LogContentBrowser: Attempting asset rename: Virtual_Piano_-_Online_Piano_Keyboard___OnlinePianist_-_Google_Chrome_2022-09-18_01-46-29 -> Puzzle6Music
+[2022.10.12-08.30.05:310][946]LogSavePackage: Moving output files for package: /Game/Audio/raw_audio/Puzzle6Music
+[2022.10.12-08.30.05:310][946]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle6Music94974D9F4653CDD2867797BC217A5079.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Audio/raw_audio/Puzzle6Music.uasset'
+[2022.10.12-08.30.05:384][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.10.12-08.30.05:426][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.12-08.30.05:468][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.12-08.30.05:478][946]AssetCheck: New page: Asset Save: Puzzle6Music
+[2022.10.12-08.30.05:478][946]LogContentValidation: Display: Validating SoundWave /Game/Audio/raw_audio/Puzzle6Music.Puzzle6Music
+[2022.10.12-08.30.08:386][108]LogContentBrowser: Deferred new asset file creation: Puzzle6Music_Cue
+[2022.10.12-08.30.08:398][108]LogContentBrowser: Creating deferred item: Puzzle6Music_Cue
+[2022.10.12-08.30.08:409][109]LogContentBrowser: Renaming the item being created (Deferred Item: Puzzle6Music_Cue).
+[2022.10.12-08.30.13:219][398]LogContentBrowser: Attempting asset rename: Puzzle6Music_Cue -> Puzzle6
+[2022.10.12-08.30.13:228][398]LogContentBrowser: End creating deferred item Puzzle6Music_Cue
+[2022.10.12-08.30.16:339][575]LogMetaData: Removing '/Game/Audio/Cues/Puzzle6.Puzzle6:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Audio/raw_audio/Puzzle6.PackageMetaData'
+[2022.10.12-08.30.16:403][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Cues/Puzzle6" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Audio/Cues/Puzzle6.uasset" SILENT=true
+[2022.10.12-08.30.16:407][575]LogSavePackage: Moving output files for package: /Game/Audio/Cues/Puzzle6
+[2022.10.12-08.30.16:407][575]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle621E536924C438531779F1BAEB837D236.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Audio/Cues/Puzzle6.uasset'
+[2022.10.12-08.30.16:476][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.12-08.30.16:520][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.12-08.30.16:564][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.12-08.30.16:599][575]AssetCheck: New page: Asset Save: Puzzle6
+[2022.10.12-08.30.16:599][575]LogContentValidation: Display: Validating SoundCue /Game/Audio/Cues/Puzzle6.Puzzle6
+[2022.10.12-08.30.47:999][417]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.12-08.30.48:013][417]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.12-08.30.48:023][418]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.12-08.30.51:483][626]LogContentBrowser: Attempting asset rename: NewFolder -> PuzzlePiano
+[2022.10.12-08.30.51:489][626]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.12-08.34.46:152][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.12-08.34.46:156][514]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level3' took 0.052
+[2022.10.12-08.34.46:157][514]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/raw_audio/Fairytale_Waltz] ([1] browsable assets)...
+[2022.10.12-08.34.46:170][514]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/raw_audio/Fairytale_Waltz.Fairytale_Waltz]
+[2022.10.12-08.34.46:170][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/raw_audio/Fairytale_Waltz]
+[2022.10.12-08.34.46:179][514]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/raw_audio/Fairytale_Waltz_Auto3
+[2022.10.12-08.34.46:179][514]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Fairytale_Waltz_Auto3FA45D5F04857FD4222359DA1A526334E.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Audio/raw_audio/Fairytale_Waltz_Auto3.uasset'
+[2022.10.12-08.34.46:180][514]LogFileHelpers: Auto-saving content packages took 0.023
+[2022.10.12-08.36.57:761][299]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/BexRo/Downloads/1920_Upright_Piano/1920_Upright_Piano.obj)
+[2022.10.12-08.36.57:770][299]LogFbx: Loading FBX Scene from ../../../../../../Users/BexRo/Downloads/1920_Upright_Piano/1920_Upright_Piano.obj
+[2022.10.12-08.36.57:815][299]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.12-08.37.00:359][299]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.12-08.37.00:394][299]LogMaterial: Display: Missing cached shadermap for mesh0_dat_desirefx_me_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 978147CC68774D5656E6BF0FA030A3B9099F9630), compiling. 
+[2022.10.12-08.37.00:424][299]LogStaticMesh: Display: Building static mesh 1920_Upright_Piano_mesh0_dat_desirefx_me_...
+[2022.10.12-08.37.00:471][299]LogStaticMesh: Built static mesh [0.05s] /Game/Models/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.37.00:511][299]LogMaterial: Display: Missing cached shadermap for mesh1_dat_desirefx_me_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3B14375EA45C99A4EA7A038B8828E197C61675D9), compiling. 
+[2022.10.12-08.37.00:516][299]LogStaticMesh: Display: Building static mesh 1920_Upright_Piano_mesh1_dat_desirefx_me_...
+[2022.10.12-08.37.00:525][299]LogStaticMesh: Built static mesh [0.01s] /Game/Models/1920_Upright_Piano_mesh1_dat_desirefx_me_.1920_Upright_Piano_mesh1_dat_desirefx_me_
+[2022.10.12-08.37.00:542][299]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.12-08.37.00:618][299]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/1920_Upright_Piano_mesh0_dat_desirefx_me_) ...
+[2022.10.12-08.37.02:014][342]LogShaderCompilers: Display: ================================================
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Total job queries 468, among them cache hits 166 (35.47%)
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Tracking 104 distinct input hashes that result in 17 distinct outputs (16.35%)
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Shaders Compiled: 252
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Jobs assigned 110, completed 104 (94.55%)
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Average time worker was idle: 350.75 s
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Time job spent in pending queue: average 0.55 s, longest 2.70 s
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Job execution time: average 1.38 s, max 2.87 s
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Job life time (pending + execution): average 1.96 s, max 3.53
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.35 s
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Jobs were issued in 110 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Average processing rate: 4.27 jobs/sec
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Effective parallelization: 5.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 1.56 sec, max 2.22 sec, min 0.76 sec)
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 1.50 sec, max 1.87 sec, min 1.29 sec)
+[2022.10.12-08.37.02:015][342]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    6 times, average 1.50 sec, max 1.78 sec, min 1.31 sec)
+[2022.10.12-08.37.02:016][342]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 1.49 sec, max 1.80 sec, min 1.28 sec)
+[2022.10.12-08.37.02:016][342]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    6 times, average 1.47 sec, max 1.79 sec, min 1.27 sec)
+[2022.10.12-08.37.02:016][342]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.12-08.37.02:016][342]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.04% of total time (compiled    8 times, average 1.56 sec, max 2.22 sec, min 0.76 sec)
+[2022.10.12-08.37.02:016][342]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.94% of total time (compiled    8 times, average 1.39 sec, max 2.01 sec, min 0.58 sec)
+[2022.10.12-08.37.02:016][342]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.34% of total time (compiled    7 times, average 1.30 sec, max 2.17 sec, min 0.73 sec)
+[2022.10.12-08.37.02:016][342]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.27% of total time (compiled    6 times, average 1.50 sec, max 1.87 sec, min 1.29 sec)
+[2022.10.12-08.37.02:016][342]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 7.24% of total time (compiled    6 times, average 1.50 sec, max 1.78 sec, min 1.31 sec)
+[2022.10.12-08.37.02:016][342]LogShaderCompilers: Display: ================================================
+[2022.10.12-08.37.02:549][363]LogSlate: Window 'Message Log' being destroyed
+[2022.10.12-08.37.02:580][363]LogSlate: Window 'Message Log' being destroyed
+[2022.10.12-08.37.06:041][561]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.37.06:041][561]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.37.06:041][561]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_ as actor: StaticMeshActor /Game/Levels/Level3.Level3:PersistentLevel.StaticMeshActor_52
+[2022.10.12-08.37.06:615][595]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.37.06:615][595]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.37.06:616][595]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_ as actor: StaticMeshActor /Game/Levels/Level3.Level3:PersistentLevel.StaticMeshActor_54
+[2022.10.12-08.37.06:661][596]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.08:477][704]Cmd: DELETE
+[2022.10.12-08.37.08:477][704]Cmd: ACTOR DELETE
+[2022.10.12-08.37.08:481][704]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.12-08.37.08:529][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.12-08.37.08:534][704]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.10.12-08.37.08:547][705]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.11:517][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.12-08.37.13:587][877]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.12-08.37.13:632][877]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Models/1920_Upright_Piano_mesh1_dat_desirefx_me_.1920_Upright_Piano_mesh1_dat_desirefx_me_
+	Asset Type: StaticMesh
+	Asset Name: /Game/Models/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+	Asset Type: StaticMesh
+[2022.10.12-08.37.14:222][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.12-08.37.14:266][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.12-08.37.14:310][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.12-08.37.19:400][161]LogContentBrowser: Deferred new asset folder creation: NewFolder1
+[2022.10.12-08.37.19:427][161]LogContentBrowser: Creating deferred item: NewFolder1
+[2022.10.12-08.37.19:438][162]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder1).
+[2022.10.12-08.37.26:534][588]LogContentBrowser: Attempting asset rename: NewFolder1 -> Piano
+[2022.10.12-08.37.26:535][588]LogContentBrowser: End creating deferred item NewFolder1
+[2022.10.12-08.37.38:104][818]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/BexRo/Downloads/1920_Upright_Piano/1920_Upright_Piano.FBX)
+[2022.10.12-08.37.38:113][818]LogFbx: Loading FBX Scene from ../../../../../../Users/BexRo/Downloads/1920_Upright_Piano/1920_Upright_Piano.FBX
+[2022.10.12-08.37.38:129][818]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.12-08.37.39:679][818]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.12-08.37.39:743][818]LogMaterial: Display: Missing cached shadermap for UV_Map_07 in PCD3D_SM5, Default, SM5 (DDC key hash: 9EF5B69412CC617382C36614F2ACC104403CE02E), compiling. 
+[2022.10.12-08.37.39:776][818]LogStaticMesh: Display: Building static mesh 1920_Upright_Piano_mesh0_dat_desirefx_me_...
+[2022.10.12-08.37.39:841][818]LogTexture: Display: Building textures: /Game/Models/Piano/mat0_c.mat0_c (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.10.12-08.37.39:841][818]LogStaticMesh: Built static mesh [0.06s] /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.37.39:893][818]LogMaterial: Display: Missing cached shadermap for UV_Map_07_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9ADD97F05730977668C1F02F3E29DE2BAB3BB362), compiling. 
+[2022.10.12-08.37.39:900][818]LogStaticMesh: Display: Building static mesh 1920_Upright_Piano_mesh1_dat_desirefx_me_...
+[2022.10.12-08.37.39:908][818]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Piano/1920_Upright_Piano_mesh1_dat_desirefx_me_.1920_Upright_Piano_mesh1_dat_desirefx_me_
+[2022.10.12-08.37.39:934][818]LogTexture: Display: Building textures: /Game/Models/Piano/mat0_c_ncl1_1.mat0_c_ncl1_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.10.12-08.37.39:934][818]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'UV_Map_07' was renamed 'UV_Map_07_ncl1_1' 
+[2022.10.12-08.37.39:934][818]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'mat0_c' was renamed 'mat0_c_ncl1_1' 
+[2022.10.12-08.37.39:934][818]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2022.10.12-08.37.39:934][818]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2022.10.12-08.37.39:934][818]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2022.10.12-08.37.39:934][818]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.12-08.37.41:721][862]LogSlate: Window 'Message Log' being destroyed
+[2022.10.12-08.37.41:760][862]LogSlate: Window 'Message Log' being destroyed
+[2022.10.12-08.37.44:159][998]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.37.44:159][998]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.37.44:159][998]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_ as actor: StaticMeshActor /Game/Levels/Level3.Level3:PersistentLevel.StaticMeshActor_56
+[2022.10.12-08.37.44:789][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.37.44:789][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.37.44:791][ 36]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_ as actor: StaticMeshActor /Game/Levels/Level3.Level3:PersistentLevel.StaticMeshActor_58
+[2022.10.12-08.37.44:831][ 37]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.53:629][560]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.56:597][738]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.59:281][886]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.59:314][888]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.59:431][895]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.59:481][898]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.59:514][900]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.59:581][904]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.59:648][908]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.59:815][918]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.37.59:847][920]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.38.00:181][940]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.38.00:264][945]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.38.00:298][947]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.38.00:397][953]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.38.00:430][955]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.38.00:893][982]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.38.05:021][228]Cmd: DELETE
+[2022.10.12-08.38.05:021][228]Cmd: ACTOR DELETE
+[2022.10.12-08.38.05:025][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.12-08.38.05:074][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.10.12-08.38.05:078][228]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.10.12-08.38.05:088][229]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.39.19:053][463]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.39.19:053][463]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.39.19:053][463]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_ as actor: StaticMeshActor /Game/Levels/Level3.Level3:PersistentLevel.StaticMeshActor_96
+[2022.10.12-08.39.19:637][498]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.39.19:637][498]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-08.39.19:638][498]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_ as actor: StaticMeshActor /Game/Levels/Level3.Level3:PersistentLevel.StaticMeshActor_101
+[2022.10.12-08.39.19:683][499]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.39.53:939][942]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.39.59:657][279]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.39.59:774][286]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.39.59:857][291]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.39.59:924][295]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.39.59:957][297]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.00:024][301]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.00:157][309]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.00:574][334]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.00:741][344]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.01:187][370]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.04:269][549]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.04:438][555]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.04:524][558]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.04:631][562]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.04:778][570]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.06:743][687]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-08.40.44:239][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.12-08.40.50:816][275]LogContentBrowser: Attempting asset rename: Puzzle_5 -> Puzzle_6
+[2022.10.12-08.40.50:834][275]LogMetaData: Removing '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.SKEL_Puzzle_6_C' ref from Metadata '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_5.PackageMetaData'
+[2022.10.12-08.40.50:834][275]LogMetaData: Removing '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C' ref from Metadata '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_5.PackageMetaData'
+[2022.10.12-08.40.50:834][275]LogMetaData: Removing '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.SKEL_Puzzle_6_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_5.PackageMetaData'
+[2022.10.12-08.40.50:834][275]LogMetaData: Removing '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.SKEL_Puzzle_6_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_5.PackageMetaData'
+[2022.10.12-08.40.50:834][275]LogMetaData: Removing '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.SKEL_Puzzle_6_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_5.PackageMetaData'
+[2022.10.12-08.40.50:834][275]LogMetaData: Removing '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.SKEL_Puzzle_6_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_5.PackageMetaData'
+[2022.10.12-08.40.50:908][275]LogSavePackage: Moving output files for package: /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6
+[2022.10.12-08.40.50:909][275]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_68798797A4D6530019AEFA8A358C2DA70.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.uasset'
+[2022.10.12-08.40.50:979][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.12-08.40.51:026][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.10.12-08.40.51:070][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.12-08.40.51:079][275]AssetCheck: New page: Asset Save: Puzzle_6
+[2022.10.12-08.40.51:079][275]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6
+[2022.10.12-08.40.52:311][344]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-08.40.52:311][344]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-08.40.52:312][344]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_0
+[2022.10.12-08.40.52:313][344]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_0
+[2022.10.12-08.40.53:786][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-08.40.53:786][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-08.40.53:788][432]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_1
+[2022.10.12-08.40.53:789][432]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_1
+[2022.10.12-08.41.14:219][647]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-08.41.14:219][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-08.41.14:235][647]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-08.41.14:235][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-08.41.24:301][222]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.12-08.41.24:310][222]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.12-08.41.24:322][223]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.12-08.41.26:848][375]LogContentBrowser: Attempting asset rename: NewFolder -> Puzzles
+[2022.10.12-08.41.26:849][375]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.12-08.41.42:008][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_1.Puzzle_1_C' ref from Metadata '/Game/UI/Puzzle_1.PackageMetaData'
+[2022.10.12-08.41.42:008][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_1.Puzzle_1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Puzzle_1.PackageMetaData'
+[2022.10.12-08.41.42:008][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_1.Puzzle_1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Puzzle_1.PackageMetaData'
+[2022.10.12-08.41.42:008][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_1.SKEL_Puzzle_1_C' ref from Metadata '/Game/UI/Puzzle_1.PackageMetaData'
+[2022.10.12-08.41.42:008][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_1.Puzzle_1_C:Construct' ref from Metadata '/Game/UI/Puzzle_1.PackageMetaData'
+[2022.10.12-08.41.42:008][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_1.SKEL_Puzzle_1_C:PreConstruct' ref from Metadata '/Game/UI/Puzzle_1.PackageMetaData'
+[2022.10.12-08.41.42:008][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_1.SKEL_Puzzle_1_C:Tick' ref from Metadata '/Game/UI/Puzzle_1.PackageMetaData'
+[2022.10.12-08.41.42:008][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_1.SKEL_Puzzle_1_C:BndEvt__Puzzle_1_CorrectButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Puzzle_1.PackageMetaData'
+[2022.10.12-08.41.42:008][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_1.SKEL_Puzzle_1_C:Construct' ref from Metadata '/Game/UI/Puzzle_1.PackageMetaData'
+[2022.10.12-08.41.42:017][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_2.Puzzle_2_C' ref from Metadata '/Game/UI/Puzzle_2.PackageMetaData'
+[2022.10.12-08.41.42:017][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_2.SKEL_Puzzle_2_C' ref from Metadata '/Game/UI/Puzzle_2.PackageMetaData'
+[2022.10.12-08.41.42:017][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_2.Puzzle_2_C:Construct' ref from Metadata '/Game/UI/Puzzle_2.PackageMetaData'
+[2022.10.12-08.41.42:018][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_2.SKEL_Puzzle_2_C:PreConstruct' ref from Metadata '/Game/UI/Puzzle_2.PackageMetaData'
+[2022.10.12-08.41.42:018][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_2.SKEL_Puzzle_2_C:Tick' ref from Metadata '/Game/UI/Puzzle_2.PackageMetaData'
+[2022.10.12-08.41.42:018][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_2.SKEL_Puzzle_2_C:BndEvt__Puzzle_1_CorrectButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Puzzle_2.PackageMetaData'
+[2022.10.12-08.41.42:018][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_2.SKEL_Puzzle_2_C:Construct' ref from Metadata '/Game/UI/Puzzle_2.PackageMetaData'
+[2022.10.12-08.41.42:026][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_3.Puzzle_3_C' ref from Metadata '/Game/UI/Puzzle_3.PackageMetaData'
+[2022.10.12-08.41.42:026][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_3.SKEL_Puzzle_3_C' ref from Metadata '/Game/UI/Puzzle_3.PackageMetaData'
+[2022.10.12-08.41.42:026][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_3.Puzzle_3_C:Construct' ref from Metadata '/Game/UI/Puzzle_3.PackageMetaData'
+[2022.10.12-08.41.42:026][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_3.SKEL_Puzzle_3_C:PreConstruct' ref from Metadata '/Game/UI/Puzzle_3.PackageMetaData'
+[2022.10.12-08.41.42:026][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_3.SKEL_Puzzle_3_C:Tick' ref from Metadata '/Game/UI/Puzzle_3.PackageMetaData'
+[2022.10.12-08.41.42:026][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_3.SKEL_Puzzle_3_C:BndEvt__Puzzle_1_CorrectButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Puzzle_3.PackageMetaData'
+[2022.10.12-08.41.42:026][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_3.SKEL_Puzzle_3_C:Construct' ref from Metadata '/Game/UI/Puzzle_3.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.Puzzle_5_C' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.SKEL_Puzzle_5_C' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.Puzzle_5:IncrementDegree.K2Node_FunctionResult_0' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.Puzzle_5:IncrementDegree.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.Puzzle_5_C:IncrementImg' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.Puzzle_5_C:IncrementDegree' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.Puzzle_5_C:Construct' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.SKEL_Puzzle_5_C:IncrementImg' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.SKEL_Puzzle_5_C:IncrementDegree' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.SKEL_Puzzle_5_C:CheckSquares' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.SKEL_Puzzle_5_C:BndEvt__Puzzle_5_Button4_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.SKEL_Puzzle_5_C:BndEvt__Puzzle_5_Button2_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.SKEL_Puzzle_5_C:BndEvt__Puzzle_5_Button1_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.SKEL_Puzzle_5_C:Construct' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.SKEL_Puzzle_5_C:BndEvt__Puzzle_1_CorrectButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.SKEL_Puzzle_5_C:Tick' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.SKEL_Puzzle_5_C:PreConstruct' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.Puzzle_5:IncrementImg.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:033][270]LogMetaData: Removing '/Game/UI/Puzzles/Puzzle_5.Puzzle_5:IncrementImg.K2Node_FunctionResult_1' ref from Metadata '/Game/UI/Puzzle_5.PackageMetaData'
+[2022.10.12-08.41.42:040][270]LogMetaData: Removing '/Game/UI/Puzzles/PuzzleNotCompleted_tooltip.PuzzleNotCompleted_tooltip_C' ref from Metadata '/Game/UI/PuzzleNotCompleted_tooltip.PackageMetaData'
+[2022.10.12-08.41.42:040][270]LogMetaData: Removing '/Game/UI/Puzzles/PuzzleNotCompleted_tooltip.PuzzleNotCompleted_tooltip:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/PuzzleNotCompleted_tooltip.PackageMetaData'
+[2022.10.12-08.41.42:040][270]LogMetaData: Removing '/Game/UI/Puzzles/PuzzleNotCompleted_tooltip.PuzzleNotCompleted_tooltip:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/PuzzleNotCompleted_tooltip.PackageMetaData'
+[2022.10.12-08.41.42:040][270]LogMetaData: Removing '/Game/UI/Puzzles/PuzzleNotCompleted_tooltip.PuzzleNotCompleted_tooltip:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/PuzzleNotCompleted_tooltip.PackageMetaData'
+[2022.10.12-08.41.42:040][270]LogMetaData: Removing '/Game/UI/Puzzles/PuzzleNotCompleted_tooltip.SKEL_PuzzleNotCompleted_tooltip_C:PreConstruct' ref from Metadata '/Game/UI/PuzzleNotCompleted_tooltip.PackageMetaData'
+[2022.10.12-08.41.42:040][270]LogMetaData: Removing '/Game/UI/Puzzles/PuzzleNotCompleted_tooltip.SKEL_PuzzleNotCompleted_tooltip_C:Construct' ref from Metadata '/Game/UI/PuzzleNotCompleted_tooltip.PackageMetaData'
+[2022.10.12-08.41.42:040][270]LogMetaData: Removing '/Game/UI/Puzzles/PuzzleNotCompleted_tooltip.SKEL_PuzzleNotCompleted_tooltip_C:Tick' ref from Metadata '/Game/UI/PuzzleNotCompleted_tooltip.PackageMetaData'
+[2022.10.12-08.41.42:040][270]LogMetaData: Removing '/Game/UI/Puzzles/PuzzleNotCompleted_tooltip.SKEL_PuzzleNotCompleted_tooltip_C' ref from Metadata '/Game/UI/PuzzleNotCompleted_tooltip.PackageMetaData'
+[2022.10.12-08.41.42:238][270]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_PlayerCharacter
+[2022.10.12-08.41.42:239][270]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/BP_PlayerCharacter2E0D39FD46292B0C2F4F989205B1A6C5.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Player/Blueprints/BP_PlayerCharacter.uasset'
+[2022.10.12-08.41.42:240][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_1" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_1.uasset" SILENT=true
+[2022.10.12-08.41.42:251][270]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_1
+[2022.10.12-08.41.42:251][270]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_100A986FB4148D3BF13339AAA3B10A737.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_1.uasset'
+[2022.10.12-08.41.42:251][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_2" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_2.uasset" SILENT=true
+[2022.10.12-08.41.42:261][270]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_2
+[2022.10.12-08.41.42:261][270]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_22A55FA5E463EEC746759E28F1622AA92.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_2.uasset'
+[2022.10.12-08.41.42:262][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_3" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_3.uasset" SILENT=true
+[2022.10.12-08.41.42:272][270]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_3
+[2022.10.12-08.41.42:272][270]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_37B60731B43D1B9188ED6B79A33DC9B3E.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_3.uasset'
+[2022.10.12-08.41.42:273][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_5" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_5.uasset" SILENT=true
+[2022.10.12-08.41.42:297][270]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_5
+[2022.10.12-08.41.42:297][270]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_5FE34BA6649ABAFC88BD03AB91AA856DA.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_5.uasset'
+[2022.10.12-08.41.42:303][270]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/PuzzleNotCompleted_tooltip
+[2022.10.12-08.41.42:303][270]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/PuzzleNotCompleted_tooltipFEE8BDDA40579CCF631300BAEFDBFD78.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/PuzzleNotCompleted_tooltip.uasset'
+[2022.10.12-08.41.42:463][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.12-08.41.42:548][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.12-08.41.42:589][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.12-08.41.42:623][270]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.12-08.41.42:623][270]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.12-08.41.42:623][270]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_1.Puzzle_1
+[2022.10.12-08.41.42:623][270]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_2.Puzzle_2
+[2022.10.12-08.41.42:624][270]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_3.Puzzle_3
+[2022.10.12-08.41.42:624][270]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/PuzzleNotCompleted_tooltip.PuzzleNotCompleted_tooltip
+[2022.10.12-08.41.42:624][270]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_5.Puzzle_5
+[2022.10.12-08.41.46:917][511]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.12-08.41.46:917][511]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.12-08.41.47:415][539]LogContentBrowser: Deferred new asset file creation: Puzzle_6
+[2022.10.12-08.41.47:447][539]LogContentBrowser: Creating deferred item: Puzzle_6
+[2022.10.12-08.41.47:461][540]LogContentBrowser: Renaming the item being created (Deferred Item: Puzzle_6).
+[2022.10.12-08.41.48:387][596]LogContentBrowser: Attempting asset rename: Puzzle_6 -> Puzzle_6
+[2022.10.12-08.41.48:448][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.12-08.41.48:477][596]LogContentBrowser: End creating deferred item Puzzle_6
+[2022.10.12-08.41.48:527][599]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6
+[2022.10.12-08.41.48:528][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-08.41.48:535][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-08.41.48:855][599]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.12-08.41.48:855][599]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.12-08.42.40:096][750]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\BexRo\OneDrive\Pictures\Screenshot 2022-10-12 214227.jpg)
+[2022.10.12-08.42.40:117][750]LogTexture: Display: Building textures: /Game/Blueprints/Puzzles/PuzzlePiano/Screenshot_2022-10-12_214227.Screenshot_2022-10-12_214227 (BGRA8, 718X191 X1X1) (Required Memory Estimate: 2.6157 MB), EncodeSpeed: Fast
+[2022.10.12-08.42.45:819][ 32]LogContentBrowser: Attempting asset rename: Screenshot_2022-10-12_214227 -> Keyboard
+[2022.10.12-08.42.45:914][ 32]LogSavePackage: Moving output files for package: /Game/Blueprints/Puzzles/PuzzlePiano/Keyboard
+[2022.10.12-08.42.45:914][ 32]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Keyboard69AE2D2A48F790D41D5684AE44943FC8.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/Puzzles/PuzzlePiano/Keyboard.uasset'
+[2022.10.12-08.42.45:979][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.12-08.42.46:024][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.12-08.42.46:064][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.12-08.42.46:073][ 32]AssetCheck: New page: Asset Save: Keyboard
+[2022.10.12-08.42.46:073][ 32]LogContentValidation: Display: Validating Texture2D /Game/Blueprints/Puzzles/PuzzlePiano/Keyboard.Keyboard
+[2022.10.12-08.46.13:279][357]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-08.46.13:348][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.12-08.46.32:799][504]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-08.46.32:849][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.12-08.47.18:863][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.12-08.47.18:900][251]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level3_Auto4
+[2022.10.12-08.47.18:900][251]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level3_Auto432B80D894C430802A205FCBC14A0CB16.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Levels/Level3_Auto4.umap'
+[2022.10.12-08.47.18:907][251]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level3' took 0.084
+[2022.10.12-08.47.18:907][251]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2022.10.12-08.47.18:908][251]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_] ([1] browsable assets)...
+[2022.10.12-08.47.18:953][251]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_]
+[2022.10.12-08.47.18:953][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_]
+[2022.10.12-08.47.18:968][251]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me__Auto4
+[2022.10.12-08.47.18:968][251]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/1920_Upright_Piano_mesh0_dat_desC8E1CEDA4C6C73A1A0C87989A9651F28.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me__Auto4.uasset'
+[2022.10.12-08.47.18:968][251]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Piano/1920_Upright_Piano_mesh1_dat_desirefx_me_] ([1] browsable assets)...
+[2022.10.12-08.47.18:987][251]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh1_dat_desirefx_me_.1920_Upright_Piano_mesh1_dat_desirefx_me_]
+[2022.10.12-08.47.18:987][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Piano/1920_Upright_Piano_mesh1_dat_desirefx_me_]
+[2022.10.12-08.47.18:993][251]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Piano/1920_Upright_Piano_mesh1_dat_desirefx_me__Auto4
+[2022.10.12-08.47.18:993][251]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/1920_Upright_Piano_mesh1_dat_des4D1918F9431937B395FAAB8F3455D476.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Models/Piano/1920_Upright_Piano_mesh1_dat_desirefx_me__Auto4.uasset'
+[2022.10.12-08.47.18:994][251]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Puzzles/Puzzle_6] ([2] browsable assets)...
+[2022.10.12-08.47.18:997][251]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6]
+[2022.10.12-08.47.18:997][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Puzzles/Puzzle_6]
+[2022.10.12-08.47.19:013][251]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Puzzles/Puzzle_6_Auto4
+[2022.10.12-08.47.19:013][251]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_6_Auto4EB0E88CB43E5AF6820A7D984355E1071.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/UI/Puzzles/Puzzle_6_Auto4.uasset'
+[2022.10.12-08.47.19:014][251]LogFileHelpers: Auto-saving content packages took 0.106
+[2022.10.12-08.47.43:758][576]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-08.47.43:769][576]LogClass: Warning: Type mismatch in Correct of Puzzle_6_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2022.10.12-08.47.43:770][576]LogBlueprint: Warning: [AssetLog] /Game/UI/Puzzles/Puzzle_6.Puzzle_6 (no disk path found): [Compiler] Can't parse default value 'None' for  . Property: Correct.
+[2022.10.12-08.47.43:770][576]LogBlueprint: Warning: [AssetLog] /Game/UI/Puzzles/Puzzle_6.Puzzle_6 (no disk path found): [Compiler] Can't parse default value 'None' for  . Property: Played.
+[2022.10.12-08.47.43:828][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.12-08.52.31:948][198]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Puzzles/Puzzle_5.Puzzle_5
+[2022.10.12-08.52.31:948][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-08.52.31:953][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-08.52.32:249][198]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.12-08.52.32:249][198]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.12-08.53.01:973][952]BlueprintLog: New page: Compile Puzzle_5
+[2022.10.12-08.53.02:057][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.10.12-08.53.02:706][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_5" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_5.uasset" SILENT=true
+[2022.10.12-08.53.02:733][979]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_5
+[2022.10.12-08.53.02:744][979]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_5DD179A604D2C135F14CC94AF8D97A709.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_5.uasset'
+[2022.10.12-08.53.02:764][979]AssetCheck: New page: Asset Save: Puzzle_5
+[2022.10.12-08.53.02:764][979]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_5.Puzzle_5
+[2022.10.12-08.53.03:903][ 46]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-08.53.03:903][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-08.53.03:918][ 46]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-08.53.03:918][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-08.53.05:140][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_6" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset" SILENT=true
+[2022.10.12-08.53.05:156][112]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_6
+[2022.10.12-08.53.05:156][112]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_60F1B6F55479B5526D11D60BEF61270A4.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset'
+[2022.10.12-08.53.05:170][112]AssetCheck: New page: Asset Save: Puzzle_6
+[2022.10.12-08.53.05:170][112]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6
+[2022.10.12-08.53.05:594][138]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-08.53.05:686][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.10.12-08.54.22:481][629]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.12-08.54.22:481][629]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.12-08.54.34:751][278]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.12-08.54.34:862][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.12-08.56.10:914][159]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-08.56.41:905][971]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-08.56.46:735][251]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-08.56.54:036][680]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-08.58.05:378][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.10.12-08.58.05:382][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level3' took 0.058
+[2022.10.12-08.58.05:383][384]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Puzzles/Puzzle_6] ([2] browsable assets)...
+[2022.10.12-08.58.05:387][384]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6]
+[2022.10.12-08.58.05:387][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Puzzles/Puzzle_6]
+[2022.10.12-08.58.05:404][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Puzzles/Puzzle_6_Auto5
+[2022.10.12-08.58.05:404][384]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_6_Auto5771BEA99426B9CF8AB3F348AF000738F.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/UI/Puzzles/Puzzle_6_Auto5.uasset'
+[2022.10.12-08.58.05:405][384]LogFileHelpers: Auto-saving content packages took 0.023
+[2022.10.12-08.58.45:801][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.12-08.58.45:839][505]LogSavePackage: Moving output files for package: /Game/Levels/Level3
+[2022.10.12-08.58.45:840][505]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level3E608E01A4633EFEA112341A99E4ACE0F.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/Level3.umap'
+[2022.10.12-08.58.45:878][505]AssetCheck: New page: Asset Save: Level3
+[2022.10.12-08.58.45:878][505]LogContentValidation: Display: Validating World /Game/Levels/Level3.Level3
+[2022.10.12-08.59.21:673][565]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-08.59.21:673][565]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-08.59.21:674][565]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_2
+[2022.10.12-08.59.21:675][565]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_2
+[2022.10.12-08.59.22:704][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-08.59.22:704][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-08.59.22:706][626]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_3
+[2022.10.12-08.59.22:707][626]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_3
+[2022.10.12-09.00.17:591][811]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.12-09.00.17:724][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.12-09.01.30:194][ 75]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Level3.
+[2022.10.12-09.03.31:024][710]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-09.03.31:085][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.10.12-09.03.31:762][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_6" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset" SILENT=true
+[2022.10.12-09.03.31:780][743]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_6
+[2022.10.12-09.03.31:781][743]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_6DA4E71964880CCB50DF53FA019F34215.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset'
+[2022.10.12-09.03.31:803][743]AssetCheck: New page: Asset Save: Puzzle_6
+[2022.10.12-09.03.31:803][743]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6
+[2022.10.12-09.03.50:456][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.10.12-09.03.50:493][843]LogSavePackage: Moving output files for package: /Game/Levels/Level3
+[2022.10.12-09.03.50:494][843]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level3461EB31044A219448C489B95EEB0832C.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/Level3.umap'
+[2022.10.12-09.03.50:531][843]AssetCheck: New page: Asset Save: Level3
+[2022.10.12-09.03.50:531][843]LogContentValidation: Display: Validating World /Game/Levels/Level3.Level3
+[2022.10.12-09.03.50:972][870]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.03.50:984][870]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.12-09.03.50:992][870]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2022.10.12-09.03.51:266][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.12-09.03.51:271][870]LogPlayLevel: PlayLevel: Blueprint regeneration took 287 ms (1 blueprints)
+[2022.10.12-09.03.51:271][870]PIE: New page: PIE session: Level3 (13/10/2022, 11:03:51 am)
+[2022.10.12-09.03.51:272][870]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.03.51:281][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009415s)
+[2022.10.12-09.03.51:281][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009486s)
+[2022.10.12-09.03.51:281][870]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.03.51:281][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.03.51:282][870]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.03.51:282][870]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2022.10.12-09.03.51:319][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.12-09.03.51:321][870]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.10.12-09.03.51:321][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.03.51:321][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.03.51:321][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.03.51:321][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.03.51:321][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.03.51:321][870]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.03.51:321][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.03.51:321][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.03.51:322][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.03.51:322][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.03.51:322][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.03.51:324][870]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.03.51:361][870]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.03.51:362][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.03.51:362][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.03.51:362][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.03.51:363][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2022.10.12-09.03.51:363][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2022.10.12-09.03.51:364][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2022.10.12-09.03.51:364][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2022.10.12-09.03.51:364][870]LogInit: FAudioDevice initialized.
+[2022.10.12-09.03.51:364][870]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level3'.
+[2022.10.12-09.03.51:375][870]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.03.51:380][870]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.03.51
+[2022.10.12-09.03.51:380][870]LogWorld: Bringing up level for play took: 0.005121
+[2022.10.12-09.03.51:382][870]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2022.10.12-09.03.51:384][870]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.03.51:385][870]PIE: Server logged in
+[2022.10.12-09.03.51:386][870]PIE: Play in editor total start time 0.402 seconds.
+[2022.10.12-09.03.54:924][ 74]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.03.54:924][ 74]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.03.57:316][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.03.57:316][214]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.03.57:317][214]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.03.57:317][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.03.57:333][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.03.57:339][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.03.57:377][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.03.57:377][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.10.12-09.03.57:379][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.10.12-09.03.57:388][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.10.12-09.03.57:417][215]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.10.12-09.04.06:850][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.12-09.04.06:887][688]LogSavePackage: Moving output files for package: /Game/Levels/Level3
+[2022.10.12-09.04.06:888][688]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level39F4E012344B58659140BC2ACF9126D84.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/Level3.umap'
+[2022.10.12-09.04.06:921][688]AssetCheck: New page: Asset Save: Level3
+[2022.10.12-09.04.06:921][688]LogContentValidation: Display: Validating World /Game/Levels/Level3.Level3
+[2022.10.12-09.04.07:433][718]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.04.07:444][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.04.07:444][718]PIE: New page: PIE session: Level3 (13/10/2022, 11:04:07 am)
+[2022.10.12-09.04.07:444][718]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.04.07:454][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010267s)
+[2022.10.12-09.04.07:454][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.010353s)
+[2022.10.12-09.04.07:454][718]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.04.07:454][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.04.07:455][718]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.04.07:455][718]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2022.10.12-09.04.07:492][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.12-09.04.07:494][718]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.10.12-09.04.07:494][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.04.07:494][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.04.07:494][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.04.07:494][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.04.07:494][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.04.07:494][718]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.04.07:494][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.04.07:494][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.04.07:495][718]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.04.07:495][718]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.04.07:495][718]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.04.07:497][718]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.04.07:535][718]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.04.07:536][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.04.07:536][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.04.07:536][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.04.07:539][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2022.10.12-09.04.07:539][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2022.10.12-09.04.07:540][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2022.10.12-09.04.07:540][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2022.10.12-09.04.07:540][718]LogInit: FAudioDevice initialized.
+[2022.10.12-09.04.07:540][718]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level3'.
+[2022.10.12-09.04.07:552][718]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.04.07:557][718]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.04.07
+[2022.10.12-09.04.07:557][718]LogWorld: Bringing up level for play took: 0.004766
+[2022.10.12-09.04.07:559][718]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2022.10.12-09.04.07:561][718]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.04.07:561][718]PIE: Server logged in
+[2022.10.12-09.04.07:562][718]PIE: Play in editor total start time 0.118 seconds.
+[2022.10.12-09.04.10:631][890]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.04.10:631][890]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.04.11:826][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.04.11:826][960]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.04.11:827][960]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.04.11:827][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.04.11:837][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.04.11:843][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.04.11:880][960]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.04.11:880][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.10.12-09.04.11:882][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.10.12-09.04.11:888][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.04.11:893][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.12-09.04.11:918][961]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.10.12-09.04.33:617][238]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.12-09.04.42:316][753]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.12-09.04.42:448][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.12-09.04.43:323][777]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_PlayerCharacter
+[2022.10.12-09.04.43:324][777]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/BP_PlayerCharacterD51FCD864A2A28D33ADDA4A8C72BA121.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Player/Blueprints/BP_PlayerCharacter.uasset'
+[2022.10.12-09.04.43:342][777]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.12-09.04.43:342][777]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.12-09.04.44:232][824]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.04.44:243][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.04.44:243][824]PIE: New page: PIE session: Level3 (13/10/2022, 11:04:44 am)
+[2022.10.12-09.04.44:243][824]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.04.44:253][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009859s)
+[2022.10.12-09.04.44:253][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009945s)
+[2022.10.12-09.04.44:253][824]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.04.44:253][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.04.44:253][824]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.04.44:254][824]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2022.10.12-09.04.44:294][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.12-09.04.44:301][824]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.10.12-09.04.44:301][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.04.44:301][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.04.44:301][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.04.44:301][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.04.44:301][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.04.44:301][824]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.04.44:301][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.04.44:301][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.04.44:301][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.04.44:301][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.04.44:301][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.04.44:304][824]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.04.44:339][824]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.04.44:340][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.04.44:340][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.04.44:340][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.04.44:341][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2022.10.12-09.04.44:341][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2022.10.12-09.04.44:342][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2022.10.12-09.04.44:342][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2022.10.12-09.04.44:342][824]LogInit: FAudioDevice initialized.
+[2022.10.12-09.04.44:342][824]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level3'.
+[2022.10.12-09.04.44:351][824]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.04.44:355][824]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.04.44
+[2022.10.12-09.04.44:356][824]LogWorld: Bringing up level for play took: 0.004731
+[2022.10.12-09.04.44:357][824]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2022.10.12-09.04.44:359][824]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.04.44:359][824]PIE: Server logged in
+[2022.10.12-09.04.44:360][824]PIE: Play in editor total start time 0.118 seconds.
+[2022.10.12-09.04.46:502][946]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.04.46:503][946]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.04.47:716][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.04.47:716][ 16]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.04.47:717][ 16]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.04.47:718][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.04.47:733][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.04.47:740][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.04.47:777][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.04.47:778][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.10.12-09.04.47:779][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.10.12-09.04.47:785][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.04.47:789][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.10.12-09.04.47:817][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.10.12-09.05.17:225][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.10.12-09.05.17:262][722]LogSavePackage: Moving output files for package: /Game/Levels/Level3
+[2022.10.12-09.05.17:263][722]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level33B9DFA5B43191652297AC59B09874B20.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/Level3.umap'
+[2022.10.12-09.05.17:298][722]AssetCheck: New page: Asset Save: Level3
+[2022.10.12-09.05.17:298][722]LogContentValidation: Display: Validating World /Game/Levels/Level3.Level3
+[2022.10.12-09.05.17:857][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.05.17:868][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.05.17:868][756]PIE: New page: PIE session: Level3 (13/10/2022, 11:05:17 am)
+[2022.10.12-09.05.17:869][756]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.05.17:879][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009571s)
+[2022.10.12-09.05.17:879][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009670s)
+[2022.10.12-09.05.17:879][756]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.05.17:879][756]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.05.17:879][756]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.05.17:880][756]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2022.10.12-09.05.17:918][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.10.12-09.05.17:920][756]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.10.12-09.05.17:920][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.05.17:920][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.05.17:920][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.05.17:920][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.05.17:920][756]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.05.17:920][756]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.05.17:920][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.05.17:920][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.05.17:920][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.05.17:920][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.05.17:920][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.05.17:923][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.05.17:957][756]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.05.17:957][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.05.17:957][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.05.17:957][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.05.17:958][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2022.10.12-09.05.17:958][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2022.10.12-09.05.17:960][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2022.10.12-09.05.17:960][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2022.10.12-09.05.17:960][756]LogInit: FAudioDevice initialized.
+[2022.10.12-09.05.17:960][756]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level3'.
+[2022.10.12-09.05.17:970][756]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.05.17:974][756]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.05.17
+[2022.10.12-09.05.17:975][756]LogWorld: Bringing up level for play took: 0.004586
+[2022.10.12-09.05.17:976][756]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2022.10.12-09.05.17:978][756]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.05.17:979][756]PIE: Server logged in
+[2022.10.12-09.05.17:980][756]PIE: Play in editor total start time 0.112 seconds.
+[2022.10.12-09.05.19:899][866]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.05.19:899][866]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.05.20:947][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.05.20:947][927]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.05.20:947][927]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.05.20:948][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.05.20:959][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.05.20:966][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.05.21:005][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.05.21:006][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.10.12-09.05.21:008][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.10.12-09.05.21:018][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.12-09.05.21:046][928]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.10.12-09.05.32:987][596]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.12-09.05.33:118][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.10.12-09.05.33:829][602]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_PlayerCharacter
+[2022.10.12-09.05.33:830][602]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/BP_PlayerCharacter307A0D3742B59D991967B7B7ED054C21.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Player/Blueprints/BP_PlayerCharacter.uasset'
+[2022.10.12-09.05.33:847][602]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.12-09.05.33:847][602]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.12-09.05.35:069][668]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.05.35:080][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.05.35:080][668]PIE: New page: PIE session: Level3 (13/10/2022, 11:05:35 am)
+[2022.10.12-09.05.35:116][668]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.05.35:126][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010691s)
+[2022.10.12-09.05.35:127][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.010848s)
+[2022.10.12-09.05.35:127][668]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.05.35:127][668]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.05.35:127][668]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.05.35:127][668]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2022.10.12-09.05.35:174][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.12-09.05.35:178][668]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.10.12-09.05.35:178][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.05.35:178][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.05.35:178][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.05.35:178][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.05.35:178][668]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.05.35:178][668]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.05.35:178][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.05.35:178][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.05.35:179][668]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.05.35:179][668]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.05.35:179][668]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.05.35:181][668]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.05.35:214][668]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.05.35:214][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.05.35:214][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.05.35:214][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.05.35:215][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2022.10.12-09.05.35:215][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2022.10.12-09.05.35:217][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2022.10.12-09.05.35:217][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2022.10.12-09.05.35:217][668]LogInit: FAudioDevice initialized.
+[2022.10.12-09.05.35:217][668]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level3'.
+[2022.10.12-09.05.35:229][668]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.05.35:234][668]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.05.35
+[2022.10.12-09.05.35:234][668]LogWorld: Bringing up level for play took: 0.004708
+[2022.10.12-09.05.35:236][668]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2022.10.12-09.05.35:238][668]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.05.35:239][668]PIE: Server logged in
+[2022.10.12-09.05.35:239][668]PIE: Play in editor total start time 0.16 seconds.
+[2022.10.12-09.05.37:407][794]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] Hello
+[2022.10.12-09.05.37:407][794]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.05.37:408][794]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.05.38:486][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.05.38:486][857]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.05.38:486][857]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.05.38:487][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.05.38:503][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.05.38:509][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.05.38:547][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.05.38:547][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.10.12-09.05.38:549][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.10.12-09.05.38:555][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.05.38:558][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.12-09.05.38:584][858]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.10.12-09.05.43:040][115]LogEditorTransaction: Undo Add Node
+[2022.10.12-09.05.43:271][115]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.12-09.06.24:676][550]Cmd: DELETE
+[2022.10.12-09.06.24:676][550]Cmd: ACTOR DELETE
+[2022.10.12-09.06.24:677][550]LogEditorActor: Cannot delete component SphereComponent /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_3.Collision: Can't delete non-instanced components or the scene root.
+[2022.10.12-09.06.27:598][719]Cmd: DELETE
+[2022.10.12-09.06.27:598][719]Cmd: ACTOR DELETE
+[2022.10.12-09.06.27:605][719]LogEditorActor: Deleted Actor: Puzzle_6_C
+[2022.10.12-09.06.27:643][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.10.12-09.06.27:648][719]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.10.12-09.06.28:783][784]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-09.06.28:783][784]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-09.06.28:784][784]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_4
+[2022.10.12-09.06.28:785][784]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_4
+[2022.10.12-09.06.29:370][819]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-09.06.29:370][819]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6_C
+[2022.10.12-09.06.29:371][819]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_5
+[2022.10.12-09.06.29:372][819]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Puzzles/PuzzlePiano/Puzzle_6.Puzzle_6 as actor: Puzzle_6_C /Game/Levels/Level3.Level3:PersistentLevel.Puzzle_6_C_5
+[2022.10.12-09.06.38:049][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.12-09.06.38:086][326]LogSavePackage: Moving output files for package: /Game/Levels/Level3
+[2022.10.12-09.06.38:087][326]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level3E6DBC7FB4D08DD3C55F78294C9459F83.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/Level3.umap'
+[2022.10.12-09.06.38:122][326]AssetCheck: New page: Asset Save: Level3
+[2022.10.12-09.06.38:122][326]LogContentValidation: Display: Validating World /Game/Levels/Level3.Level3
+[2022.10.12-09.06.38:788][366]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.06.38:799][366]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.12-09.06.38:807][366]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2022.10.12-09.06.39:082][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.12-09.06.39:090][366]LogPlayLevel: PlayLevel: Blueprint regeneration took 291 ms (1 blueprints)
+[2022.10.12-09.06.39:090][366]PIE: New page: PIE session: Level3 (13/10/2022, 11:06:39 am)
+[2022.10.12-09.06.39:090][366]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.06.39:100][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009410s)
+[2022.10.12-09.06.39:100][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009487s)
+[2022.10.12-09.06.39:100][366]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.06.39:100][366]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.06.39:100][366]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.06.39:101][366]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2022.10.12-09.06.39:139][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.10.12-09.06.39:140][366]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.10.12-09.06.39:141][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.06.39:141][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.06.39:141][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.06.39:141][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.06.39:141][366]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.06.39:141][366]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.06.39:141][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.06.39:141][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.06.39:141][366]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.06.39:141][366]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.06.39:141][366]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.06.39:143][366]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.06.39:191][366]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.06.39:191][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.06.39:191][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.06.39:191][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.06.39:192][366]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2022.10.12-09.06.39:192][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2022.10.12-09.06.39:194][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2022.10.12-09.06.39:194][366]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2022.10.12-09.06.39:194][366]LogInit: FAudioDevice initialized.
+[2022.10.12-09.06.39:194][366]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level3'.
+[2022.10.12-09.06.39:207][366]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.06.39:211][366]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.06.39
+[2022.10.12-09.06.39:212][366]LogWorld: Bringing up level for play took: 0.004591
+[2022.10.12-09.06.39:214][366]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2022.10.12-09.06.39:216][366]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.06.39:216][366]PIE: Server logged in
+[2022.10.12-09.06.39:217][366]PIE: Play in editor total start time 0.419 seconds.
+[2022.10.12-09.06.41:441][490]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.06.41:441][490]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.06.42:156][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.06.42:156][531]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.06.42:157][531]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.06.42:157][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.06.42:169][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.06.42:175][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.06.42:210][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.06.42:211][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.10.12-09.06.42:213][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.10.12-09.06.42:226][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.12-09.06.42:256][532]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.10.12-09.06.47:164][795]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.12-09.06.47:297][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.10.12-09.06.48:023][800]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_PlayerCharacter
+[2022.10.12-09.06.48:024][800]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/BP_PlayerCharacterD76454F949D418E6028F628D09501D13.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Player/Blueprints/BP_PlayerCharacter.uasset'
+[2022.10.12-09.06.48:043][800]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.12-09.06.48:043][800]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.12-09.07.05:882][783]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.12-09.07.06:023][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.10.12-09.07.06:630][785]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_PlayerCharacter
+[2022.10.12-09.07.06:631][785]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/BP_PlayerCharacterB194AE8E4A59AFCBCC8E0ABDDC4A9E5F.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Player/Blueprints/BP_PlayerCharacter.uasset'
+[2022.10.12-09.07.06:649][785]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.12-09.07.06:650][785]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.12-09.07.07:731][840]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.07.07:746][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.07.07:747][840]PIE: New page: PIE session: Level3 (13/10/2022, 11:07:07 am)
+[2022.10.12-09.07.07:747][840]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.07.07:756][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009402s)
+[2022.10.12-09.07.07:756][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009503s)
+[2022.10.12-09.07.07:756][840]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.07.07:757][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.07.07:757][840]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.07.07:757][840]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2022.10.12-09.07.07:799][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.12-09.07.07:803][840]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.10.12-09.07.07:803][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.07.07:804][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.07.07:804][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.07.07:804][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.07.07:804][840]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.07.07:804][840]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.07.07:804][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.07.07:804][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.07.07:804][840]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.07.07:804][840]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.07.07:804][840]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.07.07:806][840]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.07.07:859][840]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.07.07:859][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.07.07:859][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.07.07:859][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.07.07:861][840]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2022.10.12-09.07.07:861][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2022.10.12-09.07.07:862][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2022.10.12-09.07.07:862][840]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2022.10.12-09.07.07:862][840]LogInit: FAudioDevice initialized.
+[2022.10.12-09.07.07:862][840]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level3'.
+[2022.10.12-09.07.07:872][840]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.07.07:877][840]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.07.07
+[2022.10.12-09.07.07:877][840]LogWorld: Bringing up level for play took: 0.004853
+[2022.10.12-09.07.07:879][840]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2022.10.12-09.07.07:881][840]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.07.07:881][840]PIE: Server logged in
+[2022.10.12-09.07.07:882][840]PIE: Play in editor total start time 0.135 seconds.
+[2022.10.12-09.07.09:747][947]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] 2
+[2022.10.12-09.07.09:747][947]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.07.09:747][947]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.07.10:807][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.07.10:807][  7]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.07.10:807][  7]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.07.10:808][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.07.10:821][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.07.10:828][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.07.10:871][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.07.10:871][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.10.12-09.07.10:873][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.10.12-09.07.10:879][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.07.10:883][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.12-09.07.10:910][  8]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.10.12-09.07.14:193][199]Cmd: TRANSACTION UNDO
+[2022.10.12-09.07.14:193][199]LogEditorTransaction: Undo Create Pin Link
+[2022.10.12-09.07.14:445][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.12-09.07.15:158][224]Cmd: TRANSACTION UNDO
+[2022.10.12-09.07.15:158][224]LogEditorTransaction: Undo Add Node
+[2022.10.12-09.07.15:422][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.12-09.08.20:052][598]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.12-09.08.20:180][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.12-09.08.20:872][600]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_PlayerCharacter
+[2022.10.12-09.08.20:874][600]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/BP_PlayerCharacter37D511B8408F349AC510559630A05E67.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Player/Blueprints/BP_PlayerCharacter.uasset'
+[2022.10.12-09.08.20:897][600]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.12-09.08.20:897][600]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.12-09.08.21:501][623]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.08.21:511][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.08.21:511][623]PIE: New page: PIE session: Level3 (13/10/2022, 11:08:21 am)
+[2022.10.12-09.08.21:512][623]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.08.21:521][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009565s)
+[2022.10.12-09.08.21:521][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009655s)
+[2022.10.12-09.08.21:521][623]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.08.21:521][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.08.21:522][623]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.08.21:522][623]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2022.10.12-09.08.21:561][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.12-09.08.21:565][623]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.10.12-09.08.21:565][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.08.21:565][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.08.21:565][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.08.21:565][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.08.21:565][623]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.08.21:565][623]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.08.21:565][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.08.21:565][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.08.21:565][623]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.08.21:566][623]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.08.21:566][623]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.08.21:568][623]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.08.21:609][623]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.08.21:609][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.08.21:609][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.08.21:609][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.08.21:610][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2022.10.12-09.08.21:610][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2022.10.12-09.08.21:612][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2022.10.12-09.08.21:612][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2022.10.12-09.08.21:612][623]LogInit: FAudioDevice initialized.
+[2022.10.12-09.08.21:612][623]LogAudio: Display: Audio Device (ID: 26) registered with world 'Level3'.
+[2022.10.12-09.08.21:662][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.08.21:662][623]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.08.21:667][623]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.08.21
+[2022.10.12-09.08.21:668][623]LogWorld: Bringing up level for play took: 0.005417
+[2022.10.12-09.08.21:670][623]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2022.10.12-09.08.21:672][623]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.08.21:685][623]PIE: Server logged in
+[2022.10.12-09.08.21:696][623]PIE: Play in editor total start time 0.185 seconds.
+[2022.10.12-09.08.21:754][623]LogViewport: Scene viewport resized to 1354x970, mode Windowed.
+[2022.10.12-09.08.24:076][683]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.08.24:076][683]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.08.30:317][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.08.30:317][865]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.08.30:317][865]LogSlate: Window 'AfterYouGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.12-09.08.30:324][865]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.08.30:325][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.08.30:343][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.08.30:351][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.08.30:394][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.08.30:394][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.10.12-09.08.30:396][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.10.12-09.08.30:407][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.12-09.08.30:461][866]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.10.12-09.11.44:488][880]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.11.55:323][525]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.11.56:478][594]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.11.56:489][594]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.12-09.11.56:492][594]LogPlayLevel: [PlayLevel] Compiling Puzzle_6 before play...
+[2022.10.12-09.11.56:818][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.12-09.11.56:823][594]LogPlayLevel: PlayLevel: Blueprint regeneration took 333 ms (1 blueprints)
+[2022.10.12-09.11.56:823][594]PIE: New page: PIE session: Level3 (13/10/2022, 11:11:56 am)
+[2022.10.12-09.11.56:823][594]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.11.56:833][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009526s)
+[2022.10.12-09.11.56:833][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009607s)
+[2022.10.12-09.11.56:833][594]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.11.56:833][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.11.56:834][594]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.11.56:834][594]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2022.10.12-09.11.56:870][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.12-09.11.56:872][594]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.10.12-09.11.56:873][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.11.56:873][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.11.56:873][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.11.56:873][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.11.56:873][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.11.56:873][594]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.11.56:873][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.11.56:873][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.11.56:873][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.11.56:873][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.11.56:873][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.11.56:875][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.11.56:916][594]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.11.56:916][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.11.56:916][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.11.56:916][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.11.56:918][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2022.10.12-09.11.56:918][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2022.10.12-09.11.56:919][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2022.10.12-09.11.56:919][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2022.10.12-09.11.56:919][594]LogInit: FAudioDevice initialized.
+[2022.10.12-09.11.56:919][594]LogAudio: Display: Audio Device (ID: 27) registered with world 'Level3'.
+[2022.10.12-09.11.56:972][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.11.56:972][594]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.11.56:977][594]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.11.56
+[2022.10.12-09.11.56:978][594]LogWorld: Bringing up level for play took: 0.005397
+[2022.10.12-09.11.56:981][594]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2022.10.12-09.11.56:983][594]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.11.56:988][594]PIE: Server logged in
+[2022.10.12-09.11.56:990][594]PIE: Play in editor total start time 0.5 seconds.
+[2022.10.12-09.11.57:089][594]LogViewport: Scene viewport resized to 1357x970, mode Windowed.
+[2022.10.12-09.11.59:693][733]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.11.59:694][733]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.12.07:267][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.12.07:267][185]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.12.07:268][185]LogSlate: Window 'AfterYouGame Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.12-09.12.07:274][185]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.12.07:276][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.12.07:289][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.12.07:298][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.12.07:340][185]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.12.07:341][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.10.12-09.12.07:343][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.10.12-09.12.07:355][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.12-09.12.07:401][186]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.10.12-09.17.04:252][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.10.12-09.17.04:256][510]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level3' took 0.047
+[2022.10.12-09.17.04:257][510]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Puzzles/Puzzle_6] ([2] browsable assets)...
+[2022.10.12-09.17.04:265][510]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6]
+[2022.10.12-09.17.04:265][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Puzzles/Puzzle_6]
+[2022.10.12-09.17.04:282][510]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Puzzles/Puzzle_6_Auto6
+[2022.10.12-09.17.04:282][510]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_6_Auto661E3872A4DCAB88DFD558F973A63035C.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/UI/Puzzles/Puzzle_6_Auto6.uasset'
+[2022.10.12-09.17.04:283][510]LogFileHelpers: Auto-saving content packages took 0.026
+[2022.10.12-09.18.34:959][201]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\BexRo\Downloads\documents\Re.wav)
+[2022.10.12-09.18.34:971][201]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Re...
+[2022.10.12-09.18.34:971][201]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Re.Re will be modified from 40 to 40.
+[2022.10.12-09.18.34:983][201]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 352800 while cooking SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Re.Re.
+[2022.10.12-09.18.34:983][201]LogAudio: Display: Chunk size for SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Re.Re: 262144
+[2022.10.12-09.18.34:988][201]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\BexRo\Downloads\documents\Do.wav)
+[2022.10.12-09.18.34:990][201]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Do...
+[2022.10.12-09.18.34:990][201]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Do.Do will be modified from 40 to 40.
+[2022.10.12-09.18.35:001][201]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 352800 while cooking SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Do.Do.
+[2022.10.12-09.18.35:001][201]LogAudio: Display: Chunk size for SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Do.Do: 262144
+[2022.10.12-09.18.35:006][201]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\BexRo\Downloads\documents\Fa.wav)
+[2022.10.12-09.18.35:007][201]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Fa...
+[2022.10.12-09.18.35:007][201]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Fa.Fa will be modified from 40 to 40.
+[2022.10.12-09.18.35:019][201]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 352800 while cooking SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Fa.Fa.
+[2022.10.12-09.18.35:019][201]LogAudio: Display: Chunk size for SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Fa.Fa: 262144
+[2022.10.12-09.18.35:023][201]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\BexRo\Downloads\documents\Mi.wav)
+[2022.10.12-09.18.35:024][201]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Mi...
+[2022.10.12-09.18.35:024][201]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Mi.Mi will be modified from 40 to 40.
+[2022.10.12-09.18.35:036][201]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 352800 while cooking SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Mi.Mi.
+[2022.10.12-09.18.35:036][201]LogAudio: Display: Chunk size for SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Mi.Mi: 262144
+[2022.10.12-09.19.37:965][839]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.19.44:691][234]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.19.46:228][326]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-09.19.46:302][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.12-09.19.46:919][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_6" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset" SILENT=true
+[2022.10.12-09.19.46:938][346]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_6
+[2022.10.12-09.19.46:939][346]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_6364D7CC84BDDCD4D3860E485FAA9DFCA.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset'
+[2022.10.12-09.19.46:957][346]AssetCheck: New page: Asset Save: Puzzle_6
+[2022.10.12-09.19.46:957][346]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6
+[2022.10.12-09.19.48:105][407]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.19.48:118][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.19.48:118][407]PIE: New page: PIE session: Level3 (13/10/2022, 11:19:48 am)
+[2022.10.12-09.19.48:119][407]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.19.48:129][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009659s)
+[2022.10.12-09.19.48:129][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009758s)
+[2022.10.12-09.19.48:129][407]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.19.48:129][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.19.48:130][407]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.19.48:130][407]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2022.10.12-09.19.48:172][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.12-09.19.48:179][407]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.10.12-09.19.48:179][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.19.48:179][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.19.48:179][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.19.48:179][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.19.48:179][407]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.19.48:179][407]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.19.48:179][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.19.48:179][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.19.48:180][407]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.19.48:180][407]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.19.48:180][407]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.19.48:182][407]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.19.48:231][407]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.19.48:231][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.19.48:231][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.19.48:231][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.19.48:232][407]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2022.10.12-09.19.48:232][407]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2022.10.12-09.19.48:233][407]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2022.10.12-09.19.48:233][407]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2022.10.12-09.19.48:233][407]LogInit: FAudioDevice initialized.
+[2022.10.12-09.19.48:233][407]LogAudio: Display: Audio Device (ID: 28) registered with world 'Level3'.
+[2022.10.12-09.19.48:242][407]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.19.48:247][407]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.19.48
+[2022.10.12-09.19.48:247][407]LogWorld: Bringing up level for play took: 0.004804
+[2022.10.12-09.19.48:249][407]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2022.10.12-09.19.48:251][407]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.19.48:252][407]PIE: Server logged in
+[2022.10.12-09.19.48:252][407]PIE: Play in editor total start time 0.135 seconds.
+[2022.10.12-09.19.51:143][577]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.19.51:143][577]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.20.40:567][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.20.40:567][535]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.20.40:567][535]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.20.40:568][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.20.40:578][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.20.40:584][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.20.40:622][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.20.40:622][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.10.12-09.20.40:624][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.10.12-09.20.40:630][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.20.40:634][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.12-09.20.40:663][536]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.10.12-09.20.46:103][856]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.21.21:408][946]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-09.21.21:479][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.12-09.21.22:010][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_6" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset" SILENT=true
+[2022.10.12-09.21.22:028][964]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_6
+[2022.10.12-09.21.22:029][964]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_65040B6FD485ED065B75B559FBAA9CF5F.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset'
+[2022.10.12-09.21.22:046][964]AssetCheck: New page: Asset Save: Puzzle_6
+[2022.10.12-09.21.22:046][964]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6
+[2022.10.12-09.21.23:336][ 30]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.21.23:347][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.21.23:347][ 30]PIE: New page: PIE session: Level3 (13/10/2022, 11:21:23 am)
+[2022.10.12-09.21.23:348][ 30]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.21.23:358][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010403s)
+[2022.10.12-09.21.23:358][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.010530s)
+[2022.10.12-09.21.23:358][ 30]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.21.23:358][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.21.23:359][ 30]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.21.23:359][ 30]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2022.10.12-09.21.23:402][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.10.12-09.21.23:409][ 30]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.10.12-09.21.23:409][ 30]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.21.23:409][ 30]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.21.23:409][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.21.23:409][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.21.23:409][ 30]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.21.23:409][ 30]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.21.23:409][ 30]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.21.23:409][ 30]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.21.23:410][ 30]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.21.23:410][ 30]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.21.23:410][ 30]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.21.23:412][ 30]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.21.23:449][ 30]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.21.23:450][ 30]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.21.23:450][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.21.23:450][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.21.23:450][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2022.10.12-09.21.23:450][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2022.10.12-09.21.23:452][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2022.10.12-09.21.23:452][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2022.10.12-09.21.23:452][ 30]LogInit: FAudioDevice initialized.
+[2022.10.12-09.21.23:452][ 30]LogAudio: Display: Audio Device (ID: 29) registered with world 'Level3'.
+[2022.10.12-09.21.23:466][ 30]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.21.23:471][ 30]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.21.23
+[2022.10.12-09.21.23:471][ 30]LogWorld: Bringing up level for play took: 0.004917
+[2022.10.12-09.21.23:474][ 30]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2022.10.12-09.21.23:476][ 30]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.21.23:476][ 30]PIE: Server logged in
+[2022.10.12-09.21.23:477][ 30]PIE: Play in editor total start time 0.13 seconds.
+[2022.10.12-09.21.26:613][215]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.21.26:613][215]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.21.42:907][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.21.42:907][189]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.21.42:907][189]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.21.42:908][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.21.42:921][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.21.42:927][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.21.42:965][189]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.21.42:966][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.10.12-09.21.42:968][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.10.12-09.21.42:974][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.21.42:977][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.12-09.21.43:003][190]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.10.12-09.21.44:859][300]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.21.44:870][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.21.44:870][300]PIE: New page: PIE session: Level3 (13/10/2022, 11:21:44 am)
+[2022.10.12-09.21.44:870][300]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.21.44:880][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009550s)
+[2022.10.12-09.21.44:880][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009621s)
+[2022.10.12-09.21.44:880][300]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.21.44:880][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.21.44:880][300]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.21.44:881][300]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2022.10.12-09.21.44:918][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.12-09.21.44:921][300]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.10.12-09.21.44:921][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.21.44:921][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.21.44:921][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.21.44:921][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.21.44:921][300]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.21.44:921][300]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.21.44:921][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.21.44:921][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.21.44:922][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.21.44:922][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.21.44:922][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.21.44:924][300]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.21.44:960][300]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.21.44:960][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.21.44:960][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.21.44:960][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.21.44:961][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2022.10.12-09.21.44:961][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2022.10.12-09.21.44:962][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2022.10.12-09.21.44:962][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2022.10.12-09.21.44:962][300]LogInit: FAudioDevice initialized.
+[2022.10.12-09.21.44:962][300]LogAudio: Display: Audio Device (ID: 30) registered with world 'Level3'.
+[2022.10.12-09.21.44:973][300]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.21.44:978][300]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.21.44
+[2022.10.12-09.21.44:978][300]LogWorld: Bringing up level for play took: 0.004769
+[2022.10.12-09.21.44:980][300]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2022.10.12-09.21.44:982][300]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.21.44:982][300]PIE: Server logged in
+[2022.10.12-09.21.44:983][300]PIE: Play in editor total start time 0.113 seconds.
+[2022.10.12-09.21.47:181][428]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.21.47:181][428]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.21.58:147][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.21.58:147][ 83]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.21.58:147][ 83]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.21.58:148][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.21.58:157][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.21.58:165][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.21.58:202][ 83]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.21.58:203][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.10.12-09.21.58:205][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.10.12-09.21.58:211][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.21.58:214][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.10.12-09.21.58:240][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.10.12-09.22.23:015][519]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.22.28:480][841]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.22.33:702][149]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.22.41:757][627]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.22.43:494][731]LogEditorTransaction: Undo Edit Specified Color
+[2022.10.12-09.22.43:635][731]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.12-09.22.51:677][192]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.23.02:883][784]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.23.07:944][ 78]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.23.12:116][272]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.12-09.23.12:239][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.12-09.23.15:840][466]LogDerivedDataCache: C:/Users/BexRo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.629 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.12-09.23.17:092][540]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.23.24:372][964]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.23.34:795][537]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.24.00:726][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.24.22:063][223]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.28.50:421][875]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.12-09.28.50:576][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.10.12-09.29.17:488][386]LogEditorTransaction: Undo Paste clipboard contents
+[2022.10.12-09.29.17:745][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.12-09.30.43:156][111]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.12-09.30.43:313][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.12-09.30.44:241][125]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_PlayerCharacter
+[2022.10.12-09.30.44:242][125]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/BP_PlayerCharacterF48193404F6E02A63EDDA897D04D94CD.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Player/Blueprints/BP_PlayerCharacter.uasset'
+[2022.10.12-09.30.44:261][125]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.12-09.30.44:261][125]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.12-09.32.17:439][589]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-09.32.17:519][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.12-09.32.17:959][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_6" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset" SILENT=true
+[2022.10.12-09.32.17:980][596]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_6
+[2022.10.12-09.32.17:981][596]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_6F8AFD3FD4203F8E606F5AD8F063EA164.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset'
+[2022.10.12-09.32.17:998][596]AssetCheck: New page: Asset Save: Puzzle_6
+[2022.10.12-09.32.17:998][596]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6
+[2022.10.12-09.32.19:692][693]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.32.19:703][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.32.19:703][693]PIE: New page: PIE session: Level3 (13/10/2022, 11:32:19 am)
+[2022.10.12-09.32.19:704][693]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.32.19:713][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009471s)
+[2022.10.12-09.32.19:713][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009556s)
+[2022.10.12-09.32.19:713][693]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.32.19:714][693]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.32.19:714][693]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.32.19:714][693]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2022.10.12-09.32.19:758][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.10.12-09.32.19:768][693]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.10.12-09.32.19:768][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.32.19:768][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.32.19:768][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.32.19:768][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.32.19:768][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.32.19:768][693]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.32.19:768][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.32.19:768][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.32.19:769][693]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.32.19:769][693]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.32.19:769][693]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.32.19:771][693]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.32.19:807][693]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.32.19:807][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.32.19:807][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.32.19:807][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.32.19:808][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2022.10.12-09.32.19:808][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2022.10.12-09.32.19:810][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2022.10.12-09.32.19:810][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2022.10.12-09.32.19:810][693]LogInit: FAudioDevice initialized.
+[2022.10.12-09.32.19:810][693]LogAudio: Display: Audio Device (ID: 31) registered with world 'Level3'.
+[2022.10.12-09.32.19:823][693]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.32.19:828][693]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.32.19
+[2022.10.12-09.32.19:828][693]LogWorld: Bringing up level for play took: 0.004908
+[2022.10.12-09.32.19:830][693]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2022.10.12-09.32.19:832][693]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.32.19:832][693]PIE: Server logged in
+[2022.10.12-09.32.19:833][693]PIE: Play in editor total start time 0.13 seconds.
+[2022.10.12-09.32.21:978][802]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.32.21:978][802]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.32.46:497][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.32.46:497][270]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.32.46:497][270]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.32.46:498][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.32.46:508][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.32.46:515][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.32.46:555][270]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.32.46:555][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.10.12-09.32.46:557][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.10.12-09.32.46:563][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.32.46:567][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.12-09.32.46:594][271]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.10.12-09.32.51:659][530]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.12-09.32.51:659][530]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.12-09.32.58:070][894]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.33.03:491][210]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.12-09.33.40:652][383]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-09.33.40:733][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.12-09.33.41:186][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_6" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset" SILENT=true
+[2022.10.12-09.33.41:209][391]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_6
+[2022.10.12-09.33.41:210][391]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_607B4E6E0414BD0090ED9E7A9E9926159.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset'
+[2022.10.12-09.33.41:227][391]AssetCheck: New page: Asset Save: Puzzle_6
+[2022.10.12-09.33.41:227][391]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6
+[2022.10.12-09.33.42:938][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.33.42:948][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.33.42:948][487]PIE: New page: PIE session: Level3 (13/10/2022, 11:33:42 am)
+[2022.10.12-09.33.42:949][487]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.33.42:959][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009890s)
+[2022.10.12-09.33.42:959][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009976s)
+[2022.10.12-09.33.42:959][487]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.33.42:959][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.33.42:959][487]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.33.42:960][487]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2022.10.12-09.33.43:004][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.10.12-09.33.43:015][487]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.10.12-09.33.43:015][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.33.43:015][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.33.43:016][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.33.43:016][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.33.43:016][487]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.33.43:016][487]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.33.43:016][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.33.43:016][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.33.43:016][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.33.43:016][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.33.43:016][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.33.43:019][487]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.33.43:058][487]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.33.43:058][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.33.43:058][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.33.43:058][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.33.43:058][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2022.10.12-09.33.43:058][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2022.10.12-09.33.43:060][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2022.10.12-09.33.43:060][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2022.10.12-09.33.43:060][487]LogInit: FAudioDevice initialized.
+[2022.10.12-09.33.43:060][487]LogAudio: Display: Audio Device (ID: 32) registered with world 'Level3'.
+[2022.10.12-09.33.43:074][487]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.33.43:079][487]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.33.43
+[2022.10.12-09.33.43:079][487]LogWorld: Bringing up level for play took: 0.004874
+[2022.10.12-09.33.43:081][487]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2022.10.12-09.33.43:083][487]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.33.43:083][487]PIE: Server logged in
+[2022.10.12-09.33.43:084][487]PIE: Play in editor total start time 0.136 seconds.
+[2022.10.12-09.33.44:844][583]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.33.44:845][583]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.33.47:409][737]LogBlueprintUserMessages: [Puzzle_6_C_0] 0
+[2022.10.12-09.33.49:009][833]LogBlueprintUserMessages: [Puzzle_6_C_0] 2
+[2022.10.12-09.33.50:959][950]LogBlueprintUserMessages: [Puzzle_6_C_0] 3
+[2022.10.12-09.33.51:676][993]LogBlueprintUserMessages: [Puzzle_6_C_0] 4
+[2022.10.12-09.33.53:687][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.33.53:687][110]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.33.53:687][110]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.33.53:688][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.33.53:699][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.33.53:706][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.33.53:744][110]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.33.53:744][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.10.12-09.33.53:746][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.10.12-09.33.53:752][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.33.53:756][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.12-09.33.53:787][111]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2022.10.12-09.33.59:231][402]LogEditorTransaction: Undo Create Pin Link
+[2022.10.12-09.33.59:354][402]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.12-09.34.01:184][495]LogEditorTransaction: Undo Add Node
+[2022.10.12-09.34.01:290][495]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.12-09.34.05:040][712]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-09.34.05:119][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.10.12-09.34.05:732][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_6" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset" SILENT=true
+[2022.10.12-09.34.05:754][729]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_6
+[2022.10.12-09.34.05:755][729]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_6F94C558C4DC4968B9BED43942AF67C57.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset'
+[2022.10.12-09.34.05:771][729]AssetCheck: New page: Asset Save: Puzzle_6
+[2022.10.12-09.34.05:771][729]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6
+[2022.10.12-09.34.06:765][778]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.34.06:775][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.34.06:775][778]PIE: New page: PIE session: Level3 (13/10/2022, 11:34:06 am)
+[2022.10.12-09.34.06:775][778]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.34.06:785][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009434s)
+[2022.10.12-09.34.06:785][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.009508s)
+[2022.10.12-09.34.06:785][778]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.34.06:785][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.34.06:785][778]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.34.06:785][778]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2022.10.12-09.34.06:829][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.12-09.34.06:842][778]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.10.12-09.34.06:842][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.34.06:842][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.34.06:842][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.34.06:842][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.34.06:842][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.34.06:842][778]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.34.06:842][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.34.06:842][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.34.06:842][778]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.34.06:842][778]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.34.06:842][778]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.34.06:845][778]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.34.06:885][778]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.34.06:885][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.34.06:885][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.34.06:885][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.34.06:885][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2022.10.12-09.34.06:885][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2022.10.12-09.34.06:887][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2022.10.12-09.34.06:887][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2022.10.12-09.34.06:887][778]LogInit: FAudioDevice initialized.
+[2022.10.12-09.34.06:887][778]LogAudio: Display: Audio Device (ID: 33) registered with world 'Level3'.
+[2022.10.12-09.34.06:897][778]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.34.06:901][778]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.34.06
+[2022.10.12-09.34.06:902][778]LogWorld: Bringing up level for play took: 0.004509
+[2022.10.12-09.34.06:903][778]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2022.10.12-09.34.06:905][778]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.34.06:906][778]PIE: Server logged in
+[2022.10.12-09.34.06:906][778]PIE: Play in editor total start time 0.132 seconds.
+[2022.10.12-09.34.09:360][922]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.34.09:360][922]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.34.13:226][154]LogBlueprintUserMessages: [Puzzle_6_C_0] Hello
+[2022.10.12-09.34.13:226][154]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.12-09.34.13:226][154]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.12-09.34.13:226][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.34.13:226][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.34.16:047][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.34.16:047][321]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.34.16:048][321]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.34.16:048][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.34.16:060][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.34.16:067][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.34.16:108][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.34.16:110][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.10.12-09.34.16:112][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.10.12-09.34.16:118][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.34.16:122][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.12-09.34.16:171][322]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2022.10.12-09.34.23:810][744]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-09.34.23:884][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.12-09.34.24:352][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_6" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset" SILENT=true
+[2022.10.12-09.34.24:374][753]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_6
+[2022.10.12-09.34.24:375][753]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_660489D734B48D6C9B27E9A97AA371CCC.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset'
+[2022.10.12-09.34.24:394][753]AssetCheck: New page: Asset Save: Puzzle_6
+[2022.10.12-09.34.24:394][753]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6
+[2022.10.12-09.35.15:897][749]BlueprintLog: New page: Compile Puzzle_6
+[2022.10.12-09.35.15:977][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.10.12-09.35.16:436][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Puzzles/Puzzle_6" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset" SILENT=true
+[2022.10.12-09.35.16:457][766]LogSavePackage: Moving output files for package: /Game/UI/Puzzles/Puzzle_6
+[2022.10.12-09.35.16:458][766]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Puzzle_60FB51CD5427AE23F6BA0B9B6D29A2F84.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Puzzles/Puzzle_6.uasset'
+[2022.10.12-09.35.16:476][766]AssetCheck: New page: Asset Save: Puzzle_6
+[2022.10.12-09.35.16:476][766]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Puzzles/Puzzle_6.Puzzle_6
+[2022.10.12-09.35.17:488][819]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-09.35.17:499][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-09.35.17:499][819]PIE: New page: PIE session: Level3 (13/10/2022, 11:35:17 am)
+[2022.10.12-09.35.17:499][819]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.35.17:509][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009854s)
+[2022.10.12-09.35.17:509][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level3.Level3 to /Game/Levels/UEDPIE_0_Level3.Level3 (0.010034s)
+[2022.10.12-09.35.17:510][819]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.35.17:510][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.35.17:510][819]LogAIModule: Creating AISystem for world Level3
+[2022.10.12-09.35.17:510][819]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2022.10.12-09.35.17:555][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.10.12-09.35.17:561][819]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.10.12-09.35.17:561][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-09.35.17:561][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-09.35.17:561][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-09.35.17:561][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-09.35.17:561][819]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-09.35.17:561][819]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-09.35.17:561][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-09.35.17:561][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-09.35.17:562][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-09.35.17:562][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-09.35.17:562][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-09.35.17:564][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-09.35.17:601][819]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.12-09.35.17:601][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-09.35.17:601][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-09.35.17:601][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-09.35.17:602][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2022.10.12-09.35.17:602][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2022.10.12-09.35.17:604][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2022.10.12-09.35.17:604][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2022.10.12-09.35.17:604][819]LogInit: FAudioDevice initialized.
+[2022.10.12-09.35.17:604][819]LogAudio: Display: Audio Device (ID: 34) registered with world 'Level3'.
+[2022.10.12-09.35.17:617][819]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.12-09.35.17:622][819]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2022.10.12-22.35.17
+[2022.10.12-09.35.17:623][819]LogWorld: Bringing up level for play took: 0.005272
+[2022.10.12-09.35.17:624][819]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2022.10.12-09.35.17:626][819]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.12-09.35.17:627][819]PIE: Server logged in
+[2022.10.12-09.35.17:628][819]PIE: Play in editor total start time 0.129 seconds.
+[2022.10.12-09.35.19:217][911]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.12-09.35.19:217][911]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.12-09.35.27:708][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.35.27:708][418]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2022.10.12-09.35.27:708][418]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.35.27:709][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.35.27:717][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-09.35.27:724][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.35.27:763][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.35.27:763][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.10.12-09.35.27:765][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.10.12-09.35.27:771][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-09.35.27:775][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.12-09.35.27:802][419]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2022.10.12-09.35.31:276][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.10.12-09.35.31:317][614]LogSavePackage: Moving output files for package: /Game/Levels/Level3
+[2022.10.12-09.35.31:318][614]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level3630A9C7A47C8458C52911595B7EDC4B0.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/Level3.umap'
+[2022.10.12-09.35.31:370][614]AssetCheck: New page: Asset Save: Level3
+[2022.10.12-09.35.31:370][614]LogContentValidation: Display: Validating World /Game/Levels/Level3.Level3
+[2022.10.12-09.36.52:781][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.12-09.36.52:821][167]LogSavePackage: Moving output files for package: /Game/Levels/Level3
+[2022.10.12-09.36.52:822][167]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level39940FEF048384B723B190182319AA0B1.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/Level3.umap'
+[2022.10.12-09.36.52:856][167]AssetCheck: New page: Asset Save: Level3
+[2022.10.12-09.36.52:856][167]LogContentValidation: Display: Validating World /Game/Levels/Level3.Level3
+[2022.10.12-09.36.59:744][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.10.12-09.36.59:783][571]LogSavePackage: Moving output files for package: /Game/Levels/Level3
+[2022.10.12-09.36.59:784][571]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level320B992844A8F3514D248699D7EBEB028.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/Level3.umap'
+[2022.10.12-09.36.59:818][571]AssetCheck: New page: Asset Save: Level3
+[2022.10.12-09.36.59:818][571]LogContentValidation: Display: Validating World /Game/Levels/Level3.Level3
