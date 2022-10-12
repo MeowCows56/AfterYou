@@ -4267,3 +4267,451 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.12-09.36.59:784][571]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level320B992844A8F3514D248699D7EBEB028.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/Level3.umap'
 [2022.10.12-09.36.59:818][571]AssetCheck: New page: Asset Save: Level3
 [2022.10.12-09.36.59:818][571]LogContentValidation: Display: Validating World /Game/Levels/Level3.Level3
+[2022.10.12-09.38.51:584][309]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.12-09.38.51:616][309]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.12-09.38.51:621][309]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.12-09.38.51:642][310]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.12-09.38.54:304][467]LogContentBrowser: Attempting asset rename: NewBlueprint -> JumpScare
+[2022.10.12-09.38.54:315][467]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.12-09.38.58:816][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/JumpScare.JumpScare
+[2022.10.12-09.38.58:816][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.38.59:168][735]LogViewport: Scene viewport resized to 1139x641, mode Windowed.
+[2022.10.12-09.39.10:526][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/JumpScare" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/JumpScare.uasset" SILENT=true
+[2022.10.12-09.39.10:533][400]LogSavePackage: Moving output files for package: /Game/Blueprints/JumpScare
+[2022.10.12-09.39.10:533][400]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/JumpScare9B1AA0EC49215D9ADD173E81489A384F.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/JumpScare.uasset'
+[2022.10.12-09.39.10:548][400]AssetCheck: New page: Asset Save: JumpScare
+[2022.10.12-09.39.10:548][400]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/JumpScare.JumpScare
+[2022.10.12-09.39.11:911][480]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.39.11:911][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.42.51:697][741]LogContentBrowser: Deferred new asset folder creation: NewFolder1
+[2022.10.12-09.42.51:705][741]LogContentBrowser: Creating deferred item: NewFolder1
+[2022.10.12-09.42.51:715][742]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder1).
+[2022.10.12-09.42.54:300][895]LogContentBrowser: Attempting asset rename: NewFolder1 -> GhostGirl
+[2022.10.12-09.42.54:301][895]LogContentBrowser: End creating deferred item NewFolder1
+[2022.10.12-09.43.05:391][296]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\BexRo\Downloads\Female_Ghost_1.FBX)
+[2022.10.12-09.43.05:400][296]LogFbx: Loading FBX Scene from C:\Users\BexRo\Downloads\Female_Ghost_1.FBX
+[2022.10.12-09.43.05:433][296]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.12-09.43.09:044][296]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.12-09.43.09:075][296]LogFbx: Valid bind pose for Pose (Female_Ghost_1) - Female_Ghost_11
+[2022.10.12-09.43.09:079][296]LogMaterial: Display: Material /Game/Models/GhostGirl/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.43.09:084][296]LogMaterial: Display: Missing cached shadermap for Bodymat in PCD3D_SM5, Default, SM5 (DDC key hash: 8EB939ED499D7C28FEC028ACC4F7F7FF1F3094AB), compiling. 
+[2022.10.12-09.43.09:125][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Diffuse.png
+[2022.10.12-09.43.09:125][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Normal.png
+[2022.10.12-09.43.09:129][296]LogMaterial: Display: Missing cached shadermap for Bodymat in PCD3D_SM5, Default, SM5 (DDC key hash: 7BCBF9E7915D1E3BAAF328051FE4F41B268CE133), compiling. 
+[2022.10.12-09.43.09:136][296]LogMaterial: Display: Material /Game/Models/GhostGirl/Bodymat_ncl1_1.Bodymat_ncl1_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.43.09:144][296]LogMaterial: Display: Missing cached shadermap for Bodymat_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 64143F9981783E1CC9B630C22A0DD5F5393A89D4), compiling. 
+[2022.10.12-09.43.09:174][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Diffuse.png
+[2022.10.12-09.43.09:175][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Normal.png
+[2022.10.12-09.43.09:178][296]LogMaterial: Display: Missing cached shadermap for Bodymat_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8405CFBF1FA8B638CF00EB995E3618761AF2252B), compiling. 
+[2022.10.12-09.43.09:184][296]LogMaterial: Display: Material /Game/Models/GhostGirl/Bodymat_ncl1_2.Bodymat_ncl1_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.43.09:190][296]LogMaterial: Display: Missing cached shadermap for Bodymat_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 71581413F137F5FE4FE5C6B74F6D2719A2EF50E0), compiling. 
+[2022.10.12-09.43.09:221][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Diffuse.png
+[2022.10.12-09.43.09:222][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Normal.png
+[2022.10.12-09.43.09:225][296]LogMaterial: Display: Missing cached shadermap for Bodymat_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B71860F212D31A30AFA979CF22774A3341F7B2A), compiling. 
+[2022.10.12-09.43.09:230][296]LogMaterial: Display: Material /Game/Models/GhostGirl/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.43.09:236][296]LogMaterial: Display: Missing cached shadermap for Topmat in PCD3D_SM5, Default, SM5 (DDC key hash: 58CBC5747B8EED1FBB67308D7EC34E29FF553478), compiling. 
+[2022.10.12-09.43.09:263][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Top_Diffuse.png
+[2022.10.12-09.43.09:263][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Top_Normal.png
+[2022.10.12-09.43.09:267][296]LogMaterial: Display: Missing cached shadermap for Topmat in PCD3D_SM5, Default, SM5 (DDC key hash: 782D754C0750683BE58F9B6B965BC788491F7245), compiling. 
+[2022.10.12-09.43.09:272][296]LogMaterial: Display: Material /Game/Models/GhostGirl/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.43.09:278][296]LogMaterial: Display: Missing cached shadermap for Bottommat in PCD3D_SM5, Default, SM5 (DDC key hash: 40F36B27CCB5137BEBC4CCFEDC64C5A3EA16E8B5), compiling. 
+[2022.10.12-09.43.09:306][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Bottom_Diffuse.png
+[2022.10.12-09.43.09:306][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Bottom_Normal.png
+[2022.10.12-09.43.09:310][296]LogMaterial: Display: Missing cached shadermap for Bottommat in PCD3D_SM5, Default, SM5 (DDC key hash: 9BADB3836B035E0EBA1982A60958A8C64020A01C), compiling. 
+[2022.10.12-09.43.09:315][296]LogMaterial: Display: Material /Game/Models/GhostGirl/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.43.09:321][296]LogMaterial: Display: Missing cached shadermap for Hairmat in PCD3D_SM5, Default, SM5 (DDC key hash: 12311AC57DB85CBDF1D4F65145686B2BE656BD49), compiling. 
+[2022.10.12-09.43.09:349][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Hair_Diffuse.png
+[2022.10.12-09.43.09:349][296]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Hair_Normal.png
+[2022.10.12-09.43.09:352][296]LogMaterial: Display: Missing cached shadermap for Hairmat in PCD3D_SM5, Default, SM5 (DDC key hash: 235EFFD95952661ED58F1BCE53F792D053537145), compiling. 
+[2022.10.12-09.43.09:391][296]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2022.10.12-09.43.09:926][296]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2022.10.12-09.43.09:926][296]LogSkeletalMesh: Section 1: Material=1, 21054 triangles
+[2022.10.12-09.43.09:926][296]LogSkeletalMesh: Section 2: Material=2, 114 triangles
+[2022.10.12-09.43.09:926][296]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2022.10.12-09.43.09:926][296]LogSkeletalMesh: Section 4: Material=4, 4588 triangles
+[2022.10.12-09.43.09:926][296]LogSkeletalMesh: Section 5: Material=5, 4572 triangles
+[2022.10.12-09.43.09:948][296]LogSkeletalMesh: Building Skeletal Mesh Female_Ghost_1...
+[2022.10.12-09.43.09:948][296]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.43.10:501][296]LogSkeletalMesh: Built Skeletal Mesh [0.56s] /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1
+[2022.10.12-09.43.10:501][296]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.43.10:517][296]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.43.10:518][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.43.10:532][296]FBXImport: FBX File Loading: Found name clash, node 'Female_Ghost_1' was renamed to 'Female_Ghost_11' 
+[2022.10.12-09.43.10:532][296]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Female_Ghost_1_Body_Diffuse' was renamed 'Female_Ghost_1_Body_Diffuse_ncl1_1' 
+[2022.10.12-09.43.10:532][296]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Female_Ghost_1_Body_Normal' was renamed 'Female_Ghost_1_Body_Normal_ncl1_1' 
+[2022.10.12-09.43.10:532][296]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Female_Ghost_1_Body_Diffuse' was renamed 'Female_Ghost_1_Body_Diffuse_ncl1_2' 
+[2022.10.12-09.43.10:532][296]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Female_Ghost_1_Body_Normal' was renamed 'Female_Ghost_1_Body_Normal_ncl1_2' 
+[2022.10.12-09.43.10:532][296]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.12-09.43.13:191][363]LogSlate: Window 'Message Log' being destroyed
+[2022.10.12-09.43.13:211][363]LogSlate: Window 'Message Log' being destroyed
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: ================================================
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Total job queries 680, among them cache hits 166 (24.41%)
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Tracking 121 distinct input hashes that result in 20 distinct outputs (16.53%)
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Shaders Compiled: 448
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Jobs assigned 129, completed 121 (93.80%)
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Average time worker was idle: 557.94 s
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Time job spent in pending queue: average 0.54 s, longest 2.71 s
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Job execution time: average 1.45 s, max 2.87 s
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Job life time (pending + execution): average 1.96 s, max 3.53
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.99 s
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Jobs were issued in 128 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Average processing rate: 4.03 jobs/sec
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Effective parallelization: 5.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.12-09.43.13:677][380]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   12 times, average 1.57 sec, max 2.22 sec, min 0.76 sec)
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   15 times, average 1.57 sec, max 2.27 sec, min 0.58 sec)
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 1.50 sec, max 1.87 sec, min 1.29 sec)
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    6 times, average 1.50 sec, max 1.78 sec, min 1.31 sec)
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 1.49 sec, max 1.80 sec, min 1.28 sec)
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.65% of total time (compiled   15 times, average 1.57 sec, max 2.27 sec, min 0.58 sec)
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.54% of total time (compiled   12 times, average 1.57 sec, max 2.22 sec, min 0.76 sec)
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.20% of total time (compiled   11 times, average 1.39 sec, max 2.17 sec, min 0.73 sec)
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.00% of total time (compiled    6 times, average 1.50 sec, max 1.87 sec, min 1.29 sec)
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 5.97% of total time (compiled    6 times, average 1.50 sec, max 1.78 sec, min 1.31 sec)
+[2022.10.12-09.43.13:678][380]LogShaderCompilers: Display: ================================================
+[2022.10.12-09.43.41:732][ 13]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1
+[2022.10.12-09.43.41:732][ 13]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1
+[2022.10.12-09.43.41:733][ 13]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1 as actor: SkeletalMeshActor /Game/Levels/Level3.Level3:PersistentLevel.SkeletalMeshActor_2
+[2022.10.12-09.43.41:734][ 13]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1 as actor: SkeletalMeshActor /Game/Levels/Level3.Level3:PersistentLevel.SkeletalMeshActor_2
+[2022.10.12-09.43.42:272][ 45]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1
+[2022.10.12-09.43.42:272][ 45]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1
+[2022.10.12-09.43.42:273][ 45]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1 as actor: SkeletalMeshActor /Game/Levels/Level3.Level3:PersistentLevel.SkeletalMeshActor_3
+[2022.10.12-09.43.42:274][ 45]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1 as actor: SkeletalMeshActor /Game/Levels/Level3.Level3:PersistentLevel.SkeletalMeshActor_3
+[2022.10.12-09.43.42:328][ 45]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.12-09.43.43:639][122]Cmd: DELETE
+[2022.10.12-09.43.43:639][122]Cmd: ACTOR DELETE
+[2022.10.12-09.43.43:643][122]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.10.12-09.43.43:693][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.10.12-09.43.43:700][122]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.10.12-09.44.07:591][423]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/GhostGirl/Bodymat.Bodymat
+[2022.10.12-09.44.07:599][423]LogMaterial: Display: Missing cached shadermap for Preview:Bodymat in PCD3D_SM5, Default, SM5 (DDC key hash: E6B36E26E54B88CE8E651354F9F3591BA64C16C5), compiling. 
+[2022.10.12-09.44.07:638][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.44.07:725][423]LogMaterial: Display: Missing cached shadermap for Preview:Bodymat in PCD3D_SM5, Default, SM5 (DDC key hash: 0A923E853CD208E6C85F26E7A54AA804218A1059), compiling. 
+[2022.10.12-09.44.07:731][423]LogMaterial: Display: Missing cached shadermap for Preview:Bodymat in PCD3D_SM5, Default, SM5 (DDC key hash: 897C41C300C19020883FB6182F5FF1E72105900A), compiling. 
+[2022.10.12-09.44.07:733][423]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 17D5FBD6EC76F15FB28C1E81164B044EE95D6361), compiling. 
+[2022.10.12-09.44.07:764][423]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.12-09.44.07:764][423]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.12-09.44.07:764][423]MaterialEditorStats: Shader Count: 0
+[2022.10.12-09.44.07:769][423]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2022.10.12-09.44.07:845][425]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.12-09.44.07:845][425]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.12-09.44.07:845][425]MaterialEditorStats: Shader Count: 4
+[2022.10.12-09.44.09:698][533]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.44.09:698][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.44.15:815][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.12-09.44.17:819][884]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.12-09.44.17:922][884]LogUObjectGlobals: Force Deleting 9 Package(s):
+	Asset Name: /Game/Models/GhostGirl/Bodymat.Bodymat
+	Asset Type: Material
+	Asset Name: /Game/Models/GhostGirl/Bodymat_ncl1_1.Bodymat_ncl1_1
+	Asset Type: Material
+	Asset Name: /Game/Models/GhostGirl/Bodymat_ncl1_2.Bodymat_ncl1_2
+	Asset Type: Material
+	Asset Name: /Game/Models/GhostGirl/Bottommat.Bottommat
+	Asset Type: Material
+	Asset Name: /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Models/GhostGirl/Female_Ghost_1_PhysicsAsset.Female_Ghost_1_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Models/GhostGirl/Female_Ghost_1_Skeleton.Female_Ghost_1_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Models/GhostGirl/Hairmat.Hairmat
+	Asset Type: Material
+	Asset Name: /Game/Models/GhostGirl/Topmat.Topmat
+	Asset Type: Material
+[2022.10.12-09.44.18:321][884]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.44.18:341][884]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.44.18:361][884]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.44.18:382][884]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.44.18:401][884]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.44.18:421][884]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.44.18:768][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.12-09.44.18:808][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.12-09.44.18:847][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.12-09.44.56:215][ 89]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\BexRo\Downloads\Female_Ghost_1.FBX)
+[2022.10.12-09.44.56:223][ 89]LogFbx: Loading FBX Scene from C:\Users\BexRo\Downloads\Female_Ghost_1.FBX
+[2022.10.12-09.44.56:252][ 89]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.12-09.45.01:528][ 89]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.12-09.45.01:567][ 89]LogFbx: Valid bind pose for Pose (Female_Ghost_1) - Female_Ghost_11
+[2022.10.12-09.45.01:571][ 89]LogMaterial: Display: Material /Game/Models/GhostGirl/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.45.01:575][ 89]LogMaterial: Display: Missing cached shadermap for Bodymat in PCD3D_SM5, Default, SM5 (DDC key hash: DC62EA076BBB225A13B66BC318C7A0ACA69E4191), compiling. 
+[2022.10.12-09.45.01:610][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Diffuse.png
+[2022.10.12-09.45.01:610][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Normal.png
+[2022.10.12-09.45.01:614][ 89]LogMaterial: Display: Missing cached shadermap for Bodymat in PCD3D_SM5, Default, SM5 (DDC key hash: 4A7E20278A8DD28D3F89D99FA02A5148529B4063), compiling. 
+[2022.10.12-09.45.01:620][ 89]LogMaterial: Display: Material /Game/Models/GhostGirl/Bodymat_ncl1_1.Bodymat_ncl1_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.45.01:626][ 89]LogMaterial: Display: Missing cached shadermap for Bodymat_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D6B507DCE5500114E479E5BBD51A9069383DE05), compiling. 
+[2022.10.12-09.45.01:657][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Diffuse.png
+[2022.10.12-09.45.01:657][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Normal.png
+[2022.10.12-09.45.01:661][ 89]LogMaterial: Display: Missing cached shadermap for Bodymat_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7A3EBD53B3C5998888FCAC3D04E156DA0EB95966), compiling. 
+[2022.10.12-09.45.01:667][ 89]LogMaterial: Display: Material /Game/Models/GhostGirl/Bodymat_ncl1_2.Bodymat_ncl1_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.45.01:673][ 89]LogMaterial: Display: Missing cached shadermap for Bodymat_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 43533B1C6E7B108DEF11EA7C302AB35D68E89672), compiling. 
+[2022.10.12-09.45.01:703][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Diffuse.png
+[2022.10.12-09.45.01:703][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Body_Normal.png
+[2022.10.12-09.45.01:706][ 89]LogMaterial: Display: Missing cached shadermap for Bodymat_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 10208A40931D8189E09F5824BCB03B66AD772A76), compiling. 
+[2022.10.12-09.45.01:711][ 89]LogMaterial: Display: Material /Game/Models/GhostGirl/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.45.01:717][ 89]LogMaterial: Display: Missing cached shadermap for Topmat in PCD3D_SM5, Default, SM5 (DDC key hash: 967AE3556B17C49C21F3589444431BE81BA07E58), compiling. 
+[2022.10.12-09.45.01:746][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Top_Diffuse.png
+[2022.10.12-09.45.01:746][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Top_Normal.png
+[2022.10.12-09.45.01:750][ 89]LogMaterial: Display: Missing cached shadermap for Topmat in PCD3D_SM5, Default, SM5 (DDC key hash: 9DD1960B810286CC3C85B52DA3DC307EF8AC1966), compiling. 
+[2022.10.12-09.45.01:755][ 89]LogMaterial: Display: Material /Game/Models/GhostGirl/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.45.01:761][ 89]LogMaterial: Display: Missing cached shadermap for Bottommat in PCD3D_SM5, Default, SM5 (DDC key hash: 1DEC34105B29C14C8177650FB55782EA1A9B5615), compiling. 
+[2022.10.12-09.45.01:789][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Bottom_Diffuse.png
+[2022.10.12-09.45.01:790][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Bottom_Normal.png
+[2022.10.12-09.45.01:793][ 89]LogMaterial: Display: Missing cached shadermap for Bottommat in PCD3D_SM5, Default, SM5 (DDC key hash: 473C2404CB8584243450CAB015279380270303E4), compiling. 
+[2022.10.12-09.45.01:798][ 89]LogMaterial: Display: Material /Game/Models/GhostGirl/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.12-09.45.01:804][ 89]LogMaterial: Display: Missing cached shadermap for Hairmat in PCD3D_SM5, Default, SM5 (DDC key hash: 0DDAAEC32C8C690DCDCDB839AB5A57FDF9054181), compiling. 
+[2022.10.12-09.45.01:833][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Hair_Diffuse.png
+[2022.10.12-09.45.01:833][ 89]LogFbxMaterialImport: Display: Unable to find Texture file F:/Matthew/YouTube/Videos/Jumpscares/Female_Ghost_1.fbm/Female_Ghost_1_Hair_Normal.png
+[2022.10.12-09.45.01:837][ 89]LogMaterial: Display: Missing cached shadermap for Hairmat in PCD3D_SM5, Default, SM5 (DDC key hash: 4A5C0D52FE7BF04D4ECD3876CC382CB89AD2CB74), compiling. 
+[2022.10.12-09.45.01:874][ 89]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2022.10.12-09.45.02:449][ 89]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2022.10.12-09.45.02:449][ 89]LogSkeletalMesh: Section 1: Material=1, 21054 triangles
+[2022.10.12-09.45.02:449][ 89]LogSkeletalMesh: Section 2: Material=2, 114 triangles
+[2022.10.12-09.45.02:449][ 89]LogSkeletalMesh: Section 3: Material=3, 2552 triangles
+[2022.10.12-09.45.02:449][ 89]LogSkeletalMesh: Section 4: Material=4, 4588 triangles
+[2022.10.12-09.45.02:449][ 89]LogSkeletalMesh: Section 5: Material=5, 4572 triangles
+[2022.10.12-09.45.02:472][ 89]LogSkeletalMesh: Building Skeletal Mesh Female_Ghost_1...
+[2022.10.12-09.45.02:472][ 89]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.45.02:986][ 89]LogSkeletalMesh: Built Skeletal Mesh [0.53s] /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1
+[2022.10.12-09.45.02:998][ 89]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.45.03:013][ 89]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.45.03:014][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.45.03:029][ 89]FBXImport: FBX File Loading: Found name clash, node 'Female_Ghost_1' was renamed to 'Female_Ghost_11' 
+[2022.10.12-09.45.03:029][ 89]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Female_Ghost_1_Body_Diffuse' was renamed 'Female_Ghost_1_Body_Diffuse_ncl1_1' 
+[2022.10.12-09.45.03:029][ 89]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Female_Ghost_1_Body_Normal' was renamed 'Female_Ghost_1_Body_Normal_ncl1_1' 
+[2022.10.12-09.45.03:029][ 89]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Female_Ghost_1_Body_Diffuse' was renamed 'Female_Ghost_1_Body_Diffuse_ncl1_2' 
+[2022.10.12-09.45.03:029][ 89]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Female_Ghost_1_Body_Normal' was renamed 'Female_Ghost_1_Body_Normal_ncl1_2' 
+[2022.10.12-09.45.03:029][ 89]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.12-09.45.26:882][314]LogSlate: Window 'Message Log' being destroyed
+[2022.10.12-09.45.26:891][314]LogSlate: Window 'Message Log' being destroyed
+[2022.10.12-09.45.31:342][579]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1
+[2022.10.12-09.45.31:342][579]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.45.31:355][579]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_70:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.12-09.45.31:618][579]LogViewport: Scene viewport resized to 1212x803, mode Windowed.
+[2022.10.12-09.45.37:205][907]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.45.37:205][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.45.44:606][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.12-09.45.46:709][321]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.12-09.45.46:807][321]LogUObjectGlobals: Force Deleting 9 Package(s):
+	Asset Name: /Game/Models/GhostGirl/Bodymat.Bodymat
+	Asset Type: Material
+	Asset Name: /Game/Models/GhostGirl/Bodymat_ncl1_1.Bodymat_ncl1_1
+	Asset Type: Material
+	Asset Name: /Game/Models/GhostGirl/Bodymat_ncl1_2.Bodymat_ncl1_2
+	Asset Type: Material
+	Asset Name: /Game/Models/GhostGirl/Bottommat.Bottommat
+	Asset Type: Material
+	Asset Name: /Game/Models/GhostGirl/Female_Ghost_1.Female_Ghost_1
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Models/GhostGirl/Female_Ghost_1_PhysicsAsset.Female_Ghost_1_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Models/GhostGirl/Female_Ghost_1_Skeleton.Female_Ghost_1_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Models/GhostGirl/Hairmat.Hairmat
+	Asset Type: Material
+	Asset Name: /Game/Models/GhostGirl/Topmat.Topmat
+	Asset Type: Material
+[2022.10.12-09.45.47:119][321]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.45.47:139][321]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.45.47:158][321]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.45.47:213][321]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Female_Ghost_1) ...
+[2022.10.12-09.45.47:535][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.10.12-09.45.47:575][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.12-09.45.47:614][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.10.12-09.47.00:079][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.12-09.47.00:116][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level3_Auto7
+[2022.10.12-09.47.00:116][211]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level3_Auto7059FE1FB44769D0863E63DA0E9F60C9E.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Levels/Level3_Auto7.umap'
+[2022.10.12-09.47.00:121][211]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level3' took 0.082
+[2022.10.12-09.47.00:121][211]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2022.10.12-09.47.00:122][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Puzzles/PuzzlePiano/Re] ([1] browsable assets)...
+[2022.10.12-09.47.00:125][211]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Re.Re]
+[2022.10.12-09.47.00:125][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Puzzles/PuzzlePiano/Re]
+[2022.10.12-09.47.00:128][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Re_Auto7
+[2022.10.12-09.47.00:128][211]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Re_Auto7630DA5724A8F7CEA74F09286D64670F9.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Re_Auto7.uasset'
+[2022.10.12-09.47.00:129][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Puzzles/PuzzlePiano/Do] ([1] browsable assets)...
+[2022.10.12-09.47.00:131][211]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Do.Do]
+[2022.10.12-09.47.00:131][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Puzzles/PuzzlePiano/Do]
+[2022.10.12-09.47.00:134][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Do_Auto7
+[2022.10.12-09.47.00:134][211]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Do_Auto743FADA2B490C0BB966CC94B770ED6592.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Do_Auto7.uasset'
+[2022.10.12-09.47.00:135][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Puzzles/PuzzlePiano/Fa] ([1] browsable assets)...
+[2022.10.12-09.47.00:137][211]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Fa.Fa]
+[2022.10.12-09.47.00:137][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Puzzles/PuzzlePiano/Fa]
+[2022.10.12-09.47.00:140][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Fa_Auto7
+[2022.10.12-09.47.00:140][211]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Fa_Auto765E3EC994188663865142F90DEBECA11.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Fa_Auto7.uasset'
+[2022.10.12-09.47.00:141][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Puzzles/PuzzlePiano/Mi] ([1] browsable assets)...
+[2022.10.12-09.47.00:143][211]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Mi.Mi]
+[2022.10.12-09.47.00:143][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Puzzles/PuzzlePiano/Mi]
+[2022.10.12-09.47.00:147][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Mi_Auto7
+[2022.10.12-09.47.00:147][211]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Mi_Auto7E7032BD84FE07B5EA928D196A828D575.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Mi_Auto7.uasset'
+[2022.10.12-09.47.00:148][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Puzzles/PuzzlePiano/Re_Cue] ([1] browsable assets)...
+[2022.10.12-09.47.00:148][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Puzzles/PuzzlePiano/Re_Cue]
+[2022.10.12-09.47.00:151][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Re_Cue_Auto7
+[2022.10.12-09.47.00:151][211]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Re_Cue_Auto72B204F9D4F657CC6951D1E9A02195280.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Re_Cue_Auto7.uasset'
+[2022.10.12-09.47.00:151][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Puzzles/PuzzlePiano/Do_Cue] ([1] browsable assets)...
+[2022.10.12-09.47.00:152][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Puzzles/PuzzlePiano/Do_Cue]
+[2022.10.12-09.47.00:154][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Do_Cue_Auto7
+[2022.10.12-09.47.00:154][211]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Do_Cue_Auto77F7E3E0248A1B093170E65AD038C1457.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Do_Cue_Auto7.uasset'
+[2022.10.12-09.47.00:155][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Puzzles/PuzzlePiano/Fa_Cue] ([1] browsable assets)...
+[2022.10.12-09.47.00:155][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Puzzles/PuzzlePiano/Fa_Cue]
+[2022.10.12-09.47.00:158][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Fa_Cue_Auto7
+[2022.10.12-09.47.00:158][211]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Fa_Cue_Auto7838990B34AF5EAFE0D1CE08389CB2F8F.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Fa_Cue_Auto7.uasset'
+[2022.10.12-09.47.00:158][211]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Puzzles/PuzzlePiano/Mi_Cue] ([1] browsable assets)...
+[2022.10.12-09.47.00:158][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Puzzles/PuzzlePiano/Mi_Cue]
+[2022.10.12-09.47.00:161][211]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Mi_Cue_Auto7
+[2022.10.12-09.47.00:161][211]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Mi_Cue_Auto71E1F1E14446021D134C922B3A87A8D1B.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/Blueprints/Puzzles/PuzzlePiano/Mi_Cue_Auto7.uasset'
+[2022.10.12-09.47.00:162][211]LogFileHelpers: Auto-saving content packages took 0.041
+[2022.10.12-09.47.21:808][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.12-09.47.23:911][561]LogSlate: Window 'Save Content' being destroyed
+[2022.10.12-09.47.24:008][561]LogSavePackage: Moving output files for package: /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-09.47.24:008][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/1920_Upright_Piano_mesh0_dat_desB61EA60F40BCF585D0F614B8592255C1.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.uasset'
+[2022.10.12-09.47.24:016][561]LogSavePackage: Moving output files for package: /Game/Models/Piano/1920_Upright_Piano_mesh1_dat_desirefx_me_
+[2022.10.12-09.47.24:016][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/1920_Upright_Piano_mesh1_dat_desBF93A57E4A88993A8E923895CA8C5FBB.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Piano/1920_Upright_Piano_mesh1_dat_desirefx_me_.uasset'
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: ================================================
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Total job queries 982, among them cache hits 234 (23.83%)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Tracking 154 distinct input hashes that result in 20 distinct outputs (12.99%)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Shaders Compiled: 472
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Jobs assigned 154, completed 154 (100.00%)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Average time worker was idle: 462.44 s
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Time job spent in pending queue: average 0.69 s, longest 3.31 s
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Job execution time: average 1.46 s, max 2.87 s
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Job life time (pending + execution): average 2.14 s, max 4.25
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 35.51 s
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Jobs were issued in 154 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Average processing rate: 4.34 jobs/sec
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Effective parallelization: 5.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   24 times, average 1.65 sec, max 2.51 sec, min 0.76 sec)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 1.50 sec, max 1.87 sec, min 1.29 sec)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    6 times, average 1.50 sec, max 1.78 sec, min 1.31 sec)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 1.49 sec, max 1.80 sec, min 1.28 sec)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    6 times, average 1.47 sec, max 1.79 sec, min 1.27 sec)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.46% of total time (compiled   24 times, average 1.65 sec, max 2.51 sec, min 0.76 sec)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.11% of total time (compiled   24 times, average 1.46 sec, max 2.27 sec, min 0.58 sec)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.31% of total time (compiled   17 times, average 1.40 sec, max 2.17 sec, min 0.73 sec)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.65% of total time (compiled    6 times, average 1.50 sec, max 1.87 sec, min 1.29 sec)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 4.62% of total time (compiled    6 times, average 1.50 sec, max 1.78 sec, min 1.31 sec)
+[2022.10.12-09.47.24:052][561]LogShaderCompilers: Display: ================================================
+[2022.10.12-09.47.24:103][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/NewFolder/Cloth" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/NewFolder/Cloth.uasset" SILENT=true
+[2022.10.12-09.47.24:108][561]LogSavePackage: Moving output files for package: /Game/Models/NewFolder/Cloth
+[2022.10.12-09.47.24:108][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/ClothDE6A58DA4720B1D58EFCD58B84E615D5.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/NewFolder/Cloth.uasset'
+[2022.10.12-09.47.24:148][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Ghost/Cloth" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Ghost/Cloth.uasset" SILENT=true
+[2022.10.12-09.47.24:152][561]LogSavePackage: Moving output files for package: /Game/Models/Ghost/Cloth
+[2022.10.12-09.47.24:153][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Cloth9300BEFD40899F6F07AEF7AD48BE31C9.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Ghost/Cloth.uasset'
+[2022.10.12-09.47.24:158][561]LogSavePackage: Moving output files for package: /Game/Blueprints/Puzzles/PuzzlePiano/Do
+[2022.10.12-09.47.24:158][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Do050F76B24CEFEFD6F5BA599F290A33F3.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/Puzzles/PuzzlePiano/Do.uasset'
+[2022.10.12-09.47.24:163][561]LogSavePackage: Moving output files for package: /Game/Blueprints/Puzzles/PuzzlePiano/Do_Cue
+[2022.10.12-09.47.24:163][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Do_Cue5B1A6095408BE11C1023F19F09BD3B3E.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/Puzzles/PuzzlePiano/Do_Cue.uasset'
+[2022.10.12-09.47.24:166][561]LogSavePackage: Moving output files for package: /Game/Blueprints/Puzzles/PuzzlePiano/Fa
+[2022.10.12-09.47.24:167][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Fa82B5BC1C4C71BB8A4DBB35AB8FC7C07B.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/Puzzles/PuzzlePiano/Fa.uasset'
+[2022.10.12-09.47.24:170][561]LogSavePackage: Moving output files for package: /Game/Blueprints/Puzzles/PuzzlePiano/Fa_Cue
+[2022.10.12-09.47.24:170][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Fa_CueCBE6C4BF4163543B43F337BA68AAFB2A.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/Puzzles/PuzzlePiano/Fa_Cue.uasset'
+[2022.10.12-09.47.24:178][561]LogSavePackage: Moving output files for package: /Game/Audio/raw_audio/Fairytale_Waltz
+[2022.10.12-09.47.24:179][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Fairytale_Waltz6E55B3B147AE899808EB51AA5B27ADD4.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Audio/raw_audio/Fairytale_Waltz.uasset'
+[2022.10.12-09.47.24:465][561]LogSavePackage: Moving output files for package: /Game/Models/NewFolder/Fixed_Ghost
+[2022.10.12-09.47.24:465][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Fixed_GhostE8620E9147C46B45C84A74B59EC55D90.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/NewFolder/Fixed_Ghost.uasset'
+[2022.10.12-09.47.24:471][561]LogSavePackage: Moving output files for package: /Game/Models/Ghost/Fixed_Ghost_PhysicsAsset
+[2022.10.12-09.47.24:471][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Fixed_Ghost_PhysicsAsset8D69E9B74A7848215E4C059086BE6919.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Ghost/Fixed_Ghost_PhysicsAsset.uasset'
+[2022.10.12-09.47.24:474][561]LogSavePackage: Moving output files for package: /Game/Models/Ghost/Fixed_Ghost_Skeleton
+[2022.10.12-09.47.24:474][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Fixed_Ghost_Skeleton9B154D094493EEB3401E70AC8D3B6338.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Ghost/Fixed_Ghost_Skeleton.uasset'
+[2022.10.12-09.47.24:513][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.12-09.47.24:549][561]LogSavePackage: Moving output files for package: /Game/Levels/Level3
+[2022.10.12-09.47.24:550][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level34504FAC246F1FB53FE1D3CB0EB267C62.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/Level3.umap'
+[2022.10.12-09.47.24:565][561]LogFileHelpers: Saving map 'Level3' took 0.090
+[2022.10.12-09.47.24:567][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Piano/mat0_c" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Piano/mat0_c.uasset" SILENT=true
+[2022.10.12-09.47.24:571][561]LogSavePackage: Moving output files for package: /Game/Models/Piano/mat0_c
+[2022.10.12-09.47.24:571][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/mat0_cDEEB3F2246CD7691A6FC0FBB29C470EB.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Piano/mat0_c.uasset'
+[2022.10.12-09.47.24:574][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Piano/mat0_c_ncl1_1" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Piano/mat0_c_ncl1_1.uasset" SILENT=true
+[2022.10.12-09.47.24:578][561]LogSavePackage: Moving output files for package: /Game/Models/Piano/mat0_c_ncl1_1
+[2022.10.12-09.47.24:578][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/mat0_c_ncl1_15C8A76C745547824C3F3189FB8FB2F6D.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Piano/mat0_c_ncl1_1.uasset'
+[2022.10.12-09.47.24:617][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Ghost/Material_001" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Ghost/Material_001.uasset" SILENT=true
+[2022.10.12-09.47.24:622][561]LogSavePackage: Moving output files for package: /Game/Models/Ghost/Material_001
+[2022.10.12-09.47.24:622][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Material_001582DEE714314A5CC2F1104BA3A571F09.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Ghost/Material_001.uasset'
+[2022.10.12-09.47.24:653][561]LogSavePackage: Moving output files for package: /Game/Models/NewFolder/Material_001
+[2022.10.12-09.47.24:653][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Material_001C9E4A9DA4C5D60B1183B51AFA04E2E56.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/NewFolder/Material_001.uasset'
+[2022.10.12-09.47.24:689][561]LogSavePackage: Moving output files for package: /Game/Models/NewFolder/Material_002
+[2022.10.12-09.47.24:689][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Material_0027BA1302741715F0D8E6A279B28014BF2.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/NewFolder/Material_002.uasset'
+[2022.10.12-09.47.24:731][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Ghost/Material_002" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Ghost/Material_002.uasset" SILENT=true
+[2022.10.12-09.47.24:735][561]LogSavePackage: Moving output files for package: /Game/Models/Ghost/Material_002
+[2022.10.12-09.47.24:736][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Material_0021A6E0223472E20AEB87BC992048DD6CC.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Ghost/Material_002.uasset'
+[2022.10.12-09.47.26:901][561]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.10.12-09.47.27:431][561]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005023s (0.684495s overbudget)
+[2022.10.12-09.47.27:460][561]LogSavePackage: Moving output files for package: /Game/Models/mesh0_dat_desirefx_me_Mat
+[2022.10.12-09.47.27:460][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/mesh0_dat_desirefx_me_Mat0E86402E468D07E77D3D18BABF5334C6.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/mesh0_dat_desirefx_me_Mat.uasset'
+[2022.10.12-09.47.29:557][561]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.10.12-09.47.29:791][561]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000015s (0.319215s overbudget)
+[2022.10.12-09.47.29:821][561]LogSavePackage: Moving output files for package: /Game/Models/mesh1_dat_desirefx_me_Mat
+[2022.10.12-09.47.29:821][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/mesh1_dat_desirefx_me_Mat7923C12C48567A5159CC28A068C86BFB.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/mesh1_dat_desirefx_me_Mat.uasset'
+[2022.10.12-09.47.29:826][561]LogSavePackage: Moving output files for package: /Game/Blueprints/Puzzles/PuzzlePiano/Mi
+[2022.10.12-09.47.29:826][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Mi1487D1534A67B28382AE579200FED52C.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/Puzzles/PuzzlePiano/Mi.uasset'
+[2022.10.12-09.47.29:830][561]LogSavePackage: Moving output files for package: /Game/Blueprints/Puzzles/PuzzlePiano/Mi_Cue
+[2022.10.12-09.47.29:831][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Mi_CueB8D3856F4573B992DF3B979BA8FA2F69.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/Puzzles/PuzzlePiano/Mi_Cue.uasset'
+[2022.10.12-09.47.29:835][561]LogSavePackage: Moving output files for package: /Game/Blueprints/Puzzles/PuzzlePiano/Re
+[2022.10.12-09.47.29:835][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Re533E65C84C695E28F82D20B5E29B8A92.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/Puzzles/PuzzlePiano/Re.uasset'
+[2022.10.12-09.47.29:839][561]LogSavePackage: Moving output files for package: /Game/Blueprints/Puzzles/PuzzlePiano/Re_Cue
+[2022.10.12-09.47.29:839][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Re_Cue49D1859841587BAB0BAA10B5221BD02C.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Blueprints/Puzzles/PuzzlePiano/Re_Cue.uasset'
+[2022.10.12-09.47.31:998][561]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.10.12-09.47.32:146][561]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003025s (0.295892s overbudget)
+[2022.10.12-09.47.32:171][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Piano/UV_Map_07" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Piano/UV_Map_07.uasset" SILENT=true
+[2022.10.12-09.47.32:175][561]LogSavePackage: Moving output files for package: /Game/Models/Piano/UV_Map_07
+[2022.10.12-09.47.32:176][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/UV_Map_07B7E2F8CE4DED2484205239890F1F9CBD.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Piano/UV_Map_07.uasset'
+[2022.10.12-09.47.34:233][561]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.10.12-09.47.34:603][561]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004073s (0.415453s overbudget)
+[2022.10.12-09.47.34:632][561]LogSavePackage: Moving output files for package: /Game/Models/Piano/UV_Map_07_ncl1_1
+[2022.10.12-09.47.34:632][561]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/UV_Map_07_ncl1_17709D0AD4740536451DC82AA01E25E22.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Models/Piano/UV_Map_07_ncl1_1.uasset'
+[2022.10.12-09.47.34:641][561]Cmd: MAP LOAD FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.12-09.47.34:642][561]LightingResults: New page: Lighting Build
+[2022.10.12-09.47.34:643][561]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2022.10.12-09.47.34:650][561]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-09.47.34:650][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-09.47.34:651][561]MapCheck: New page: Map Check
+[2022.10.12-09.47.34:651][561]LightingResults: New page: Lighting Build
+[2022.10.12-09.47.34:707][561]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-09.47.34:715][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.10.12-09.47.34:721][561]LogLinker: Warning: [AssetLog] C:\Users\BexRo\OneDrive\Documents\Unreal Projects\AfterYouGame\Content\Levels\MainMenuLevel.umap: Failed to load '/Game/UI/UIAssets/IntroTextSequence': Can't find file.
+[2022.10.12-09.47.34:722][561]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/UI/UIAssets/IntroTextSequence'
+[2022.10.12-09.47.34:756][561]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2022.10.12-09.47.34:756][561]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-09.47.34:756][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-09.47.34:756][561]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.10.12-09.47.34:780][561]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.12-09.47.34:835][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.10.12-09.47.34:850][561]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.12-09.47.34:851][561]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.477ms to complete.
+[2022.10.12-09.47.34:851][561]LogFileHelpers: Loading map 'MainMenuLevel' took 0.210
+[2022.10.12-09.47.34:852][561]LogSlate: Window 'Open Level' being destroyed
+[2022.10.12-09.47.34:887][561]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Material /Game/Models/Ghost/Material_002.Material_002
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Material /Game/Models/Ghost/Cloth.Cloth
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh1_dat_desirefx_me_.1920_Upright_Piano_mesh1_dat_desirefx_me_
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Texture2D /Game/Models/Piano/mat0_c.mat0_c
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating PhysicsAsset /Game/Models/Ghost/Fixed_Ghost_PhysicsAsset.Fixed_Ghost_PhysicsAsset
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Skeleton /Game/Models/Ghost/Fixed_Ghost_Skeleton.Fixed_Ghost_Skeleton
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Material /Game/Models/Ghost/Material_001.Material_001
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating SoundCue /Game/Blueprints/Puzzles/PuzzlePiano/Mi_Cue.Mi_Cue
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating SoundCue /Game/Blueprints/Puzzles/PuzzlePiano/Fa_Cue.Fa_Cue
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating SoundCue /Game/Blueprints/Puzzles/PuzzlePiano/Do_Cue.Do_Cue
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating SoundCue /Game/Blueprints/Puzzles/PuzzlePiano/Re_Cue.Re_Cue
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Mi.Mi
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Fa.Fa
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Do.Do
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating SoundWave /Game/Blueprints/Puzzles/PuzzlePiano/Re.Re
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Material /Game/Models/mesh0_dat_desirefx_me_Mat.mesh0_dat_desirefx_me_Mat
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Material /Game/Models/Piano/UV_Map_07.UV_Map_07
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating SoundWave /Game/Audio/raw_audio/Fairytale_Waltz.Fairytale_Waltz
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Texture2D /Game/Models/Piano/mat0_c_ncl1_1.mat0_c_ncl1_1
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Material /Game/Models/Piano/UV_Map_07_ncl1_1.UV_Map_07_ncl1_1
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating StaticMesh /Game/Models/Piano/1920_Upright_Piano_mesh0_dat_desirefx_me_.1920_Upright_Piano_mesh0_dat_desirefx_me_
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Material /Game/Models/mesh1_dat_desirefx_me_Mat.mesh1_dat_desirefx_me_Mat
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating StaticMesh /Game/Models/NewFolder/Fixed_Ghost.Fixed_Ghost
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Material /Game/Models/NewFolder/Material_002.Material_002
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Material /Game/Models/NewFolder/Cloth.Cloth
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating Material /Game/Models/NewFolder/Material_001.Material_001
+[2022.10.12-09.47.34:887][561]LogContentValidation: Display: Validating World /Game/Levels/Level3.Level3
