@@ -44,6 +44,7 @@ AFTER YOU is a 3d first-person horro game focused on the experience of being cha
 -https://desirefx.me/1920-upright-piano-3d-model/ Piano Model
 -http://clipart-library.com/free/blood-splatter-transparent-vector.html Blood splatters
 -https://www.youtube.com/watch?v=Lk0T2GsvPLM&t=0s Jumpscare Sound Effect
+-Unreal Engine First Person Arms
 
 ### Value of Tools
 Github was a very valuable tool as it allowed us to all share our code and work together. We also used discord to chat about the game and when we would be working 
