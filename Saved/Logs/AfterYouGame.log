@@ -794,3 +794,237 @@ Make sure 'Notification_Widget1_C' has been compiled for  Get Placeholder
 [2022.10.13-03.36.51:294][418]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Notification_Widget1C66B36504290C5D4F05E3CAC265FFA35.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Notification_Widget1.uasset'
 [2022.10.13-03.36.51:305][418]AssetCheck: New page: Asset Save: Notification_Widget1
 [2022.10.13-03.36.51:305][418]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Notification_Widget1.Notification_Widget1
+[2022.10.13-03.39.06:990][ 33]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.13-03.39.06:990][ 33]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.13-03.41.09:706][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Notification_Widget1" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Notification_Widget1.uasset" SILENT=true
+[2022.10.13-03.41.09:714][695]LogSavePackage: Moving output files for package: /Game/UI/Notification_Widget1
+[2022.10.13-03.41.09:725][695]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Notification_Widget1380561244A4724728B224CA005C29B02.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Notification_Widget1.uasset'
+[2022.10.13-03.41.09:740][695]AssetCheck: New page: Asset Save: Notification_Widget1
+[2022.10.13-03.41.09:740][695]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Notification_Widget1.Notification_Widget1
+[2022.10.13-03.41.17:419][123]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.13-03.41.18:908][123]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.10.13-03.41.18:921][123]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.13-03.41.18:925][123]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.13-03.41.18:937][124]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.10.13-03.41.23:882][412]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NotificationTray
+[2022.10.13-03.41.23:888][412]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.13-03.41.26:196][546]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/NotificationTray.NotificationTray
+[2022.10.13-03.41.26:197][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.13-03.41.26:221][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.13-03.41.26:541][546]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.13-03.41.26:541][546]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.13-03.42.48:498][746]LogSlate: Took 0.004111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.10.13-03.43.12:346][545]BlueprintLog: New page: Compile NotificationTray
+[2022.10.13-03.43.12:406][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.13-03.43.12:924][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/NotificationTray" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/NotificationTray.uasset" SILENT=true
+[2022.10.13-03.43.12:930][571]LogSavePackage: Moving output files for package: /Game/UI/NotificationTray
+[2022.10.13-03.43.12:930][571]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/NotificationTray136270164E528005EDC01F9C979E705E.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/NotificationTray.uasset'
+[2022.10.13-03.43.12:943][571]AssetCheck: New page: Asset Save: NotificationTray
+[2022.10.13-03.43.12:943][571]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/NotificationTray.NotificationTray
+[2022.10.13-03.43.45:575][679]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.13-03.43.45:575][679]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.13-03.43.46:288][721]LogContentBrowser: Deferred new asset file creation: NotificationTray1
+[2022.10.13-03.43.46:295][721]LogContentBrowser: Creating deferred item: NotificationTray1
+[2022.10.13-03.43.46:308][722]LogContentBrowser: Renaming the item being created (Deferred Item: NotificationTray1).
+[2022.10.13-03.43.57:972][421]LogContentBrowser: Attempting asset rename: NotificationTray1 -> NotificationDisplay
+[2022.10.13-03.43.58:012][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.10.13-03.43.58:018][421]LogContentBrowser: End creating deferred item NotificationTray1
+[2022.10.13-03.43.59:294][496]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/NotificationDisplay.NotificationDisplay
+[2022.10.13-03.43.59:294][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.13-03.43.59:301][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.13-03.43.59:578][496]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.13-03.43.59:578][496]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.13-03.44.46:188][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.10.13-03.44.46:190][878]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.055
+[2022.10.13-03.44.46:191][878]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/NotificationDisplay] ([2] browsable assets)...
+[2022.10.13-03.44.46:194][878]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/NotificationDisplay.NotificationDisplay]
+[2022.10.13-03.44.46:194][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/NotificationDisplay]
+[2022.10.13-03.44.46:201][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/NotificationDisplay_Auto1
+[2022.10.13-03.44.46:202][878]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/NotificationDisplay_Auto1F7981022441E4310EB0CFD83CF77175C.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Autosaves/Game/UI/NotificationDisplay_Auto1.uasset'
+[2022.10.13-03.44.46:202][878]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.10.13-03.46.37:405][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.13-03.46.37:406][  1]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.13-03.47.58:241][245]LogBlueprint: Warning: [AssetLog] C:\Users\BexRo\OneDrive\Documents\Unreal Projects\AfterYouGame\Content\Player\Blueprints\BP_PlayerCharacter.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Notify  and was replaced as a Custom Event!
+[2022.10.13-03.48.31:179][818]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.13-03.52.02:686][607]LogSlate: Took 0.003929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.13-03.52.22:003][745]BlueprintLog: New page: Compile Notification_Widget1
+[2022.10.13-03.52.22:076][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.10.13-03.52.22:508][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Notification_Widget1" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Notification_Widget1.uasset" SILENT=true
+[2022.10.13-03.52.22:515][764]LogSavePackage: Moving output files for package: /Game/UI/Notification_Widget1
+[2022.10.13-03.52.22:516][764]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Notification_Widget18398506442FDB8CA372FB8926CF8DA1A.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/Notification_Widget1.uasset'
+[2022.10.13-03.52.22:530][764]AssetCheck: New page: Asset Save: Notification_Widget1
+[2022.10.13-03.52.22:530][764]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Notification_Widget1.Notification_Widget1
+[2022.10.13-03.52.43:216][733]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.13-03.53.01:156][213]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.13-03.53.01:156][213]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.13-03.53.16:995][ 11]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.13-03.53.16:995][ 11]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.13-03.56.50:648][324]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.13-03.56.50:814][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.10.13-03.56.51:357][326]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_PlayerCharacter
+[2022.10.13-03.56.51:358][326]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/BP_PlayerCharacter2D7D79A747FE6D79954D0B89CEE35DA9.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Player/Blueprints/BP_PlayerCharacter.uasset'
+[2022.10.13-03.56.51:374][326]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.13-03.56.51:374][326]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.13-03.56.53:922][478]BlueprintLog: New page: Compile NotificationDisplay
+[2022.10.13-03.56.54:041][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.13-03.56.54:412][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/NotificationDisplay" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/NotificationDisplay.uasset" SILENT=true
+[2022.10.13-03.56.54:419][491]LogSavePackage: Moving output files for package: /Game/UI/NotificationDisplay
+[2022.10.13-03.56.54:419][491]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/NotificationDisplayC60C07AC42DC8955EDF4AAB94AE068A1.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/NotificationDisplay.uasset'
+[2022.10.13-03.56.54:433][491]AssetCheck: New page: Asset Save: NotificationDisplay
+[2022.10.13-03.56.54:433][491]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/NotificationDisplay.NotificationDisplay
+[2022.10.13-03.56.55:520][554]BlueprintLog: New page: Compile NotificationTray
+[2022.10.13-03.56.55:598][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.10.13-03.56.56:082][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/NotificationTray" FILE="../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/NotificationTray.uasset" SILENT=true
+[2022.10.13-03.56.56:089][574]LogSavePackage: Moving output files for package: /Game/UI/NotificationTray
+[2022.10.13-03.56.56:090][574]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/NotificationTray3E8BD9AE4ACC0D2BE29EDBAA9C58BDFA.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/UI/NotificationTray.uasset'
+[2022.10.13-03.56.56:103][574]AssetCheck: New page: Asset Save: NotificationTray
+[2022.10.13-03.56.56:103][574]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/NotificationTray.NotificationTray
+[2022.10.13-03.56.57:760][669]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.13-03.56.57:780][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-03.56.57:784][669]PIE: New page: PIE session: Level1 (14/10/2022, 5:56:57 am)
+[2022.10.13-03.56.57:787][669]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.13-03.56.57:788][669]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.13-03.56.57:789][669]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2022.10.13-03.56.57:799][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009051s)
+[2022.10.13-03.56.57:799][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009384s)
+[2022.10.13-03.56.57:799][669]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.13-03.56.57:799][669]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.13-03.56.57:799][669]LogAIModule: Creating AISystem for world Level1
+[2022.10.13-03.56.57:800][669]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2022.10.13-03.56.57:848][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.13-03.56.57:853][669]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.13-03.56.57:853][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-03.56.57:853][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-03.56.57:853][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-03.56.57:853][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-03.56.57:853][669]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-03.56.57:853][669]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.13-03.56.57:853][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-03.56.57:853][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-03.56.57:853][669]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-03.56.57:853][669]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-03.56.57:853][669]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-03.56.57:855][669]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.13-03.56.57:897][669]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.13-03.56.57:898][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-03.56.57:898][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-03.56.57:898][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-03.56.57:899][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.13-03.56.57:899][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.13-03.56.57:900][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.13-03.56.57:900][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.13-03.56.57:900][669]LogInit: FAudioDevice initialized.
+[2022.10.13-03.56.57:901][669]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2022.10.13-03.56.57:913][669]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.13-03.56.57:917][669]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.10.13-16.56.57
+[2022.10.13-03.56.57:937][669]LogWorld: Bringing up level for play took: 0.023867
+[2022.10.13-03.56.57:940][669]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.10.13-03.56.57:977][669]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.13-03.56.57:981][669]PIE: Server logged in
+[2022.10.13-03.56.57:983][669]PIE: Play in editor total start time 0.206 seconds.
+[2022.10.13-03.56.58:488][671]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.13-03.57.02:921][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-03.57.02:921][925]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2022.10.13-03.57.02:923][925]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-03.57.02:924][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-03.57.02:940][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-03.57.02:948][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-03.57.02:999][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.13-03.57.03:000][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.13-03.57.03:002][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.13-03.57.03:009][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-03.57.03:041][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.10.13-03.57.03:103][926]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.10.13-04.01.14:661][ 69]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.13-04.01.14:831][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.10.13-04.01.15:552][ 79]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_PlayerCharacter
+[2022.10.13-04.01.15:553][ 79]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/BP_PlayerCharacter9F952BE5496C810FA7CCCCB5022B0771.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Player/Blueprints/BP_PlayerCharacter.uasset'
+[2022.10.13-04.01.15:571][ 79]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.13-04.01.15:571][ 79]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.13-04.01.16:608][139]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.13-04.01.16:619][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.13-04.01.16:619][139]PIE: New page: PIE session: Level1 (14/10/2022, 6:01:16 am)
+[2022.10.13-04.01.16:619][139]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2022.10.13-04.01.16:627][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007643s)
+[2022.10.13-04.01.16:627][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.007708s)
+[2022.10.13-04.01.16:627][139]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.13-04.01.16:627][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.13-04.01.16:627][139]LogAIModule: Creating AISystem for world Level1
+[2022.10.13-04.01.16:628][139]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2022.10.13-04.01.16:682][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.10.13-04.01.16:686][139]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.13-04.01.16:686][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.13-04.01.16:686][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.13-04.01.16:686][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.13-04.01.16:686][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.13-04.01.16:686][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.13-04.01.16:686][139]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.13-04.01.16:686][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.13-04.01.16:686][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.13-04.01.16:687][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.13-04.01.16:687][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.13-04.01.16:687][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.13-04.01.16:689][139]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.13-04.01.16:735][139]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.13-04.01.16:735][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.13-04.01.16:735][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.13-04.01.16:735][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.13-04.01.16:736][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.13-04.01.16:736][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.13-04.01.16:737][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.13-04.01.16:737][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.13-04.01.16:737][139]LogInit: FAudioDevice initialized.
+[2022.10.13-04.01.16:738][139]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2022.10.13-04.01.16:754][139]LogLoad: Game class is 'GM_AfterYouPlayer_C'
+[2022.10.13-04.01.16:757][139]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.10.13-17.01.16
+[2022.10.13-04.01.16:757][139]LogWorld: Bringing up level for play took: 0.003603
+[2022.10.13-04.01.16:759][139]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.10.13-04.01.16:761][139]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.13-04.01.16:761][139]PIE: Server logged in
+[2022.10.13-04.01.16:762][139]PIE: Play in editor total start time 0.143 seconds.
+[2022.10.13-04.01.23:748][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-04.01.23:748][554]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2022.10.13-04.01.23:749][554]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-04.01.23:749][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-04.01.23:760][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.13-04.01.23:767][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-04.01.23:817][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.13-04.01.23:818][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.13-04.01.23:819][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.13-04.01.23:829][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.13-04.01.23:864][555]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.10.13-04.01.32:873][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.13-04.01.34:192][ 85]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.13-04.01.34:817][ 85]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-04.01.34:817][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-04.01.34:832][ 85]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-04.01.34:832][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-04.01.34:902][ 85]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-04.01.34:902][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-04.01.34:917][ 85]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-04.01.34:917][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-04.01.34:978][ 85]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-04.01.34:978][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-04.01.34:992][ 85]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.10.13-04.01.34:992][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.13-04.01.35:028][ 85]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/UI/Notification_Widget1.Notification_Widget1
+	Asset Type: WidgetBlueprint
+	Asset Name: /Game/UI/NotificationDisplay.NotificationDisplay
+	Asset Type: WidgetBlueprint
+	Asset Name: /Game/UI/NotificationTray.NotificationTray
+	Asset Type: WidgetBlueprint
+[2022.10.13-04.01.35:949][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.10.13-04.01.36:005][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.13-04.01.36:036][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.13-04.01.39:710][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.13-04.01.39:741][276]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2022.10.13-04.01.39:742][276]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/Level1996DA94247B4E3FFADAAA880186030A8.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Levels/Level1.umap'
+[2022.10.13-04.01.39:776][276]AssetCheck: New page: Asset Save: Level1
+[2022.10.13-04.01.39:776][276]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2022.10.13-04.01.40:906][344]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2022.10.13-04.01.41:028][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.13-04.01.41:566][348]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_PlayerCharacter
+[2022.10.13-04.01.41:567][348]LogSavePackage: Moving '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Saved/BP_PlayerCharacter1B3E72164D26C91E7D65CCA2BEF03D1A.tmp' to '../../../../../../Users/BexRo/OneDrive/Documents/Unreal Projects/AfterYouGame/Content/Player/Blueprints/BP_PlayerCharacter.uasset'
+[2022.10.13-04.01.41:584][348]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2022.10.13-04.01.41:584][348]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
