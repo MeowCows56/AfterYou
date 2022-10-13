@@ -1,8 +1,7 @@
 # AfterYou: A COMP31/MDDN321 Project
 "Fears come from the unknown... and behind"
 
-[Gameplay Video]()
-[Code Explanation Video]()
+Videos in Video folder
 
 ## The Team:
 MeowCows56 = Rebecca <br />
@@ -49,4 +48,4 @@ AFTER YOU is a 3d first-person horro game focused on the experience of being cha
 Github was a very valuable tool as it allowed us to all share our code and work together. We also used discord to chat about the game and when we would be working 
 
 ### Installation
-Please run the .exe file
+Please run the .exe file. If it doesn't run, please open project in unreal and start on the mainmenu level
