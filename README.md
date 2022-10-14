@@ -11,10 +11,11 @@ Yuxin-zzz = Yuxin <br />
 fniefne = Ning <br />
 itsemily00 = Emily <br />
 
-
-
 ## Description
 AFTER YOU is a 3D first-person horror game focused on the experience of being chased. The player must keep moving forward to explore whilst avoiding being caught by the ghost, hiding, solving simple puzzles, and finding key objects in order to escape. 
+
+### Google Drive Link to Playable Executable
+https://drive.google.com/drive/folders/1qrfy8qcXAkgpXwKk97j-IUOMsr0quvup?usp=sharing
 
 
 ### Main mechanics
@@ -54,3 +55,4 @@ Github was a very valuable tool as it allowed us to all share our code and work 
 
 ### Installation
 Please run the .exe file. If it doesn't run, please open project in unreal and start on the mainmenu level
+
